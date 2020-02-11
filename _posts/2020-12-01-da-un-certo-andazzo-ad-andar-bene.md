@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Da “un certo andazzo” ad “andar bene”"
-date:   2020-02-10 19:08:12 +0100
+date:   2020-12-01 00:00:00 +0100
 categories: jekyll update
 ---
 
