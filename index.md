@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Lavori in corso. Il primo post sarà previsto per il 2020-12-01.
+Ue. Qui ancora ci stiamo lavorando. Il primo post sarà previsto per il 2020-12-01.
