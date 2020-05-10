@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-Ue. Qui ancora ci stiamo lavorando. Il primo post sarà previsto per il 2020-12-01.

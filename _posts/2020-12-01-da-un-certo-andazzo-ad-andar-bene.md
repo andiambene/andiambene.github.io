@@ -2,7 +2,7 @@
 layout: post
 title:  "Da “un certo andazzo” ad “andar bene”"
 date:   2020-12-01 00:00:00 +0100
-categories: jekyll update
+categories: 
 ---
 
 ## Come Andiambene, con te, la visione e la missione
