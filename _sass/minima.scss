@@ -6,3 +6,8 @@ main {
 .subtitle {
     font-size: 1.25em;
 }
+
+
+.post-meta + h3 {
+    display: inline;
+}
