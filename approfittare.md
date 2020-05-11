@@ -1,5 +1,5 @@
 ---
-title: Approfittare bene
+title: Approfittare
 layout: page
 nav: true
 intro: I seguenti sono prodotti usati dagli autori del blog e che ci stanno aiutando ad avvicinarci ai nostri obiettivi finanziari. Se desiderate usare questi prodotti, potete farlo attraverso i codici e link in questa pagina. In questo modo potete approfittare di vari vantaggi e sostenete il blog.
@@ -27,6 +27,8 @@ MW8RXV
 
 ![Degiro](/assets/degiro.png)
 
-Se desideri investire, Degiro offre investimenti ad ottimi costi competitivi. [Clicca qui](https://www.degiro.ch/kunden-werben-kunden-new/anlagekonto-er%C3%B6ffnen.html?id=8C87C4D4&referral_name=Omar%20Elabed&utm_source=mgm) per aprire un account con Degiro!
+Se desideri investire, Degiro offre investimenti ad ottimi costi competitivi. [Clicca qui](https://www.degiro.ch/kunden-werben-kunden-new/anlagekonto-er%C3%B6ffnen.html?id=8C87C4D4&referral_name=Omar%20Elabed&utm_source=mgm) per scoprirne di più ed approfittare su un buono di 20.- sulle commissioni!
+
+Nota: ricordati sempre che investire comporta rischi. Puoi perdere una parte o tutto l'ammontare del tuo deposito. Ti consigliamo di investire solamente in prodotti finanziari che si adattano alle tue conoscenze ed esperienza.
 
 ---
