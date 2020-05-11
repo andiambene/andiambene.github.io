@@ -2,10 +2,16 @@
 layout: default
 ---
 
-<div class="home">
+<div class="page">
 
     {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h1 class="page__heading">{{ page.title }}</h1>
+    {%- endif -%}
+
+    {%- if page.intro -%}
+    <section class="page__intro">
+        {{ page.intro }}
+    </section>
     {%- endif -%}
 
     {{ content }}
@@ -15,7 +21,7 @@ layout: default
         <h2 class="post-list__heading">{{ page.list_title | default: "" }}</h2>
         <ul class="post-list__list">
             {%- for post in site.posts -%}
-            <li>
+            <li class="post-list__item">
                 {%- assign date_format = site.minima.date_format | default: "%d.%m.%Y" -%}
                 <span class="post-list__meta">{{ post.date | date: date_format }}</span>
                 <h3 class="post-list__title">

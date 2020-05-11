@@ -5,10 +5,12 @@ nav: true
 intro: I seguenti sono prodotti usati dagli autori del blog e che ci stanno aiutando ad avvicinarci ai nostri obiettivi finanziari. Se desiderate usare questi prodotti, potete farlo attraverso i codici e link in questa pagina. In questo modo potete approfittare di vari vantaggi e sostenete il blog.
 ---
 
+- Conto bancario svizzero a costo zero: [Zak](#conto-bancario-svizzero-zak)
+- Broker per investire a buon mercato in Svizzera: [Degiro](#broker-per-investimenti-degiro)
 
 ---
 
-## Zak
+## Conto bancario svizzero: Zak
 
 ![Zak](/assets/zak.jpg)
 
@@ -23,7 +25,7 @@ MW8RXV
 
 ---
 
-## Degiro
+## Broker per investimenti: Degiro
 
 ![Degiro](/assets/degiro.png)
 

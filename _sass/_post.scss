@@ -3,7 +3,6 @@
         font-size: 1.25em;
     }
     &__intro {
-        font-weight: bolder;
-        font-size: 1.2em;
+        @include intro;
     }
 }
