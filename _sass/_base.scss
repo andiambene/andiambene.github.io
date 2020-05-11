@@ -1,0 +1,36 @@
+main {
+    @include content-width;
+    margin: 5em auto;
+}
+
+blockquote p {
+    font-style: italic;
+    margin: 0;
+}
+
+// #images
+img {
+    max-width: 100%;
+}
+figure {
+    margin: 0;
+    padding: 0;
+}
+figcaption {
+    @include dim;
+}
+// /images
+
+
+time {
+    opacity: .5;
+    font-size: .75em;
+}
+
+
+// code
+pre {
+    border-radius: 1em;
+    padding: 1em;
+    background-color: #CCC;
+}

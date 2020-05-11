@@ -23,6 +23,8 @@ email: andiambene@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+disclaimer_title: Dichiarazione di non responsabilità
+disclaimer_text: Gli autori di questo blog non sono professionisti nell'ambito finanziario e rifiutano qualsiasi responsabilità per decisioni prese in linea con il contenuti del sito. Questo è un blog che riporta esperienze ed opinioni personali sui quali gli autori ritengono valga la pena riflettere, considerare e discutere. Si consiglia di consultare un professionista finanziario prima di prendere qualsiasi decisione finanziaria. Utilizzando questo sito come riferimento per scelte e decisioni personali, il lettore è responsabile delle proprie azioni e decisioni.
 
 # Build settings
 theme: minima

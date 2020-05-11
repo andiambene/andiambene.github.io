@@ -1,0 +1,12 @@
+.nav-wrapper {
+    @include content-width;
+}
+.nav {
+    margin: 0 -.5em;
+    &__link {
+        display: inline-block;
+        padding: .5em;
+        color: black;
+        font-family: sans-serif;
+    }
+}

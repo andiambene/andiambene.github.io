@@ -1,13 +1,11 @@
-main {
-    max-width: 48em;
-    margin: auto;
-}
+@import "vars";
+@import "mixins";
 
-.subtitle {
-    font-size: 1.25em;
-}
+@import "base";
 
+@import "nav";
+@import "post-list";
+@import "post";
+@import "footer";
 
-.post-meta + h3 {
-    display: inline;
-}
+@import "tweaks";
