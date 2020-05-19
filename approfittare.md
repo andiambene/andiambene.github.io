@@ -5,12 +5,14 @@ nav: true
 intro: I seguenti sono prodotti usati dagli autori del blog e che ci stanno aiutando ad avvicinarci ai nostri obiettivi finanziari. Se desiderate usare questi prodotti, potete farlo attraverso i codici e link in questa pagina. In questo modo potete approfittare di vari vantaggi e sostenete il blog.
 ---
 
-- Conto bancario svizzero a costo zero: [Zak](#conto-bancario-svizzero-zak)
+- Conto bancario svizzero a costo zero:
+    - [Zak](#zak)
+    - [Neon](#neon)
 - Broker per investire a buon mercato in Svizzera: [Degiro](#broker-per-investimenti-degiro)
 
 ---
 
-## Conto bancario svizzero: Zak
+## Zak
 
 ![Zak](/assets/zak.jpg)
 
@@ -24,6 +26,16 @@ MW8RXV
 <a href="https://play.google.com/store/apps/details?id=ch.bankcler.zak" target="_blank"><img alt="Google Play Store" src="https://www.cler.ch/-/media/Images/Social/AppStores/google_play_badge" width="142px"></a><span style="display:none">_</span>
 
 ---
+
+## Neon
+
+![Neon](/assets/neon.jpg)
+
+Un'alternativa a Zak, può essere Neon. Neon è simile a Zak, nel senso che è una soluzione digitale per un conto bancario in Svizzera ai minimi costi. Diversamente da Zak, Neon non è affiliata ad una banca "fisica" e quindi non ha sedi fisiche. In cambio offre prezzi molto competetivi ed un'ottima soluzione per l'estero. Ottieni CHF 20.- usando il seguente codice:
+
+```
+1Y35NL
+```
 
 ## Broker per investimenti: Degiro
 
