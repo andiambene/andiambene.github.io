@@ -1,0 +1,24 @@
+#mc_embed_signup {
+    text-align: center;
+    margin: 2em 0;
+    padding: 2em;
+    background-color: black;
+    color: white;
+    border-radius: .25rem;
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3);
+
+    label {
+        font-family: monospace;
+        margin: 0 0 .5rem;
+        font-weight: normal !important;
+    }
+
+    .button#mc-embedded-subscribe, input.email#mce-EMAIL {
+        background: black;
+        border-color: white;
+        font-family: monospace;
+        color: white;
+        border-width: 1px;
+        border-style: solid;
+    }
+}
