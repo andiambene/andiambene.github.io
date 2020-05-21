@@ -8,8 +8,10 @@ intro: I seguenti sono prodotti usati dagli autori del blog e che ci stanno aiut
 - Conto bancario svizzero a costo zero:
     - [Zak](#zak)
     - [Neon](#neon)
-- Broker per investire a buon mercato in Svizzera: [Degiro](#broker-per-investimenti-degiro)
-
+- Broker per investire a buon mercato in Svizzera:
+    - [Degiro](#broker-per-investimenti-degiro)
+- Per farti un budget:
+    - [YNAB](https://ynab.com/referral/?ref=-JVzYeMY0613nzSe&utm_source=customer_referral)
 ---
 
 ## Zak
