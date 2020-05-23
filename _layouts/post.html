@@ -19,6 +19,9 @@ layout: default
 
     <section class="post__intro">
         {{ page.intro }}
+        {%- if page.img_src -%}
+            <img src="/assets/images/posts/full/{{page.img_src}}" alt="{{post.img_alt}}">
+        {%- endif -%}
     </section>
 
     <section class="post-content" itemprop="articleBody">

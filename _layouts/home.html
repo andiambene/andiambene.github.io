@@ -29,7 +29,16 @@ layout: default
                         {{ post.title | escape }}
                     </a>
                 </h3>
-                <p class="post-list__intro">{{ post.intro | escape }}</p>
+                {%- if post.img_src -%}
+                    <a class="" href="{{ post.url | relative_url }}">
+                        <img src="/assets/images/posts/thumbs/{{post.img_src}}" alt="{{post.img_alt}}">
+                    </a>
+                {%- endif -%}
+                <p class="post-list__intro">
+                    <a class="" href="{{ post.url | relative_url }}">
+                        {{ post.subtitle | escape }}
+                    </a>
+                </p>
                 {%- if site.show_excerpts -%}
                 {{ post.excerpt }}
                 {%- endif -%}
