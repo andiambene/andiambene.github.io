@@ -2,6 +2,9 @@
 
     a {
         text-decoration: none;
+        &:hover {
+            text-decoration: none;
+        }
     }
 
     &__list {
@@ -23,10 +26,5 @@
         margin: 2em 0;
         padding: 1em 0;
         border-top: 1px dashed rgba(0, 0, 0, .5);
-        &:hover {
-            a {
-                text-decoration: none;
-            }
-        }
     }
 }
