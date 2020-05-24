@@ -6,4 +6,7 @@
 	border-radius: .25rem;
 	font-family: sans-serif;
 	margin: .5rem 0;
+	&:hover {
+		text-decoration: none;
+	}
 }
