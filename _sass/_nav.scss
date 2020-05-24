@@ -2,12 +2,27 @@
     @include content-width;
 }
 .nav {
-    margin: 0 -.5em;
+    @include ticket;
+
     &__link {
+        text-decoration: none;
         display: inline-block;
-        padding: .5em;
+        padding: .75rem;
         color: black;
         font-family: sans-serif;
-        font-weight: bolder;
+        opacity: .75;
+        transition: .2s;
+        border-right: 1px dashed rgba(0,0,0,.25);
+        font-size: .75rem;
+        line-height: 0.75rem;
+        &:first-child {
+            font-family:serif;
+            font-style: italic;
+            font-weight: bold;
+            font-size: 1rem;
+        }
+        &:hover {
+            opacity: 1;
+        }
     }
 }

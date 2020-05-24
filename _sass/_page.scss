@@ -2,4 +2,8 @@
     &__intro {
         @include intro;
     }
+    &__heading {
+        font-family:serif;
+        font-style: italic;
+    }
 }

@@ -36,7 +36,8 @@ pre {
 }
 
 hr {
-    border-style: double;
+    border: 0;
+    border-bottom: 1px dashed rgba(0,0,0,0.5);
     margin: 2em 0;
     opacity: .5;
 }
