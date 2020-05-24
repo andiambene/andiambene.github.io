@@ -21,28 +21,44 @@ layout: default
         <h2 class="post-list__heading">{{ page.list_title | default: "" }}</h2>
         <ul class="post-list__list">
             {%- for post in site.posts -%}
-            <li class="post-list__item">
-                {%- assign date_format = site.minima.date_format | default: "%d.%m.%Y" -%}
-                <span class="post-list__meta">{{ post.date | date: date_format }}</span>
-                <h3 class="post-list__title">
-                    <a class="" href="{{ post.url | relative_url }}">
-                        {{ post.title | escape }}
-                    </a>
-                </h3>
-                {%- if post.img_src -%}
-                    <a class="" href="{{ post.url | relative_url }}">
-                        <img src="/assets/images/posts/thumbs/{{post.img_src}}" alt="{{post.img_alt}}">
-                    </a>
-                {%- endif -%}
-                <p class="post-list__intro">
-                    <a class="" href="{{ post.url | relative_url }}">
-                        {{ post.subtitle }}
-                    </a>
-                </p>
-                {%- if site.show_excerpts -%}
-                {{ post.excerpt }}
-                {%- endif -%}
-            </li>
+                <li class="post-list__item">
+                    {%- assign date_format = site.minima.date_format | default: "%d.%m.%Y" -%}
+                    <div class="post-list__meta">
+                        {%- if post.tags -%}
+                            <div class="post-list__item-tags">
+                                {%- for tag in post.tags -%}
+                                    <span class="post-list__item-tag">
+                                        {{ tag | ecape}}
+                                    </span>
+                                {%- endfor -%}
+                            </div>
+                        {%- endif -%}
+                        <a href="{{ post.url | relative_url }}" class="post-list__item-date">
+                            {{ post.date | date: date_format }}
+                        </a>
+                    </div>
+                    {%- if post.img_src -%}
+                        <div class="post-list__image">
+                            <a class="" href="{{ post.url | relative_url }}">
+                                <img src="/assets/images/posts/thumbs/{{post.img_src}}" alt="{{post.img_alt}}">
+                            </a>
+                        </div>
+                    {%- endif -%}
+                    <h3 class="post-list__title">
+                        <a class="" href="{{ post.url | relative_url }}">
+                            {{ post.title | escape }}
+                        </a>
+                    </h3>
+                    <p class="post-list__intro">
+                        <a class="" href="{{ post.url | relative_url }}">
+                            {{ post.subtitle }}
+                        </a>
+                    </p>
+                    <a href="{{ post.url | relative_url }}" class="link-button">Vai al post</a>
+                    {%- if site.show_excerpts -%}
+                    {{ post.excerpt }}
+                    {%- endif -%}
+                </li>
             {%- endfor -%}
         </ul>
     </div>
