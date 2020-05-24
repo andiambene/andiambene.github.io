@@ -12,11 +12,13 @@ intro: I seguenti sono prodotti usati dagli autori del blog e che ci stanno aiut
     - [Degiro](#broker-per-investimenti-degiro)
 - Per farti un budget:
     - [YNAB](https://ynab.com/referral/?ref=-JVzYeMY0613nzSe&utm_source=customer_referral)
+
+    
 ---
 
 ## Zak
 
-![Zak](/assets/zak.jpg)
+![Zak](/assets/images/pages/zak.jpg)
 
 Se anche tu, come noi sei arrivata/o alla conclusione che con Zak la banca Cler sta riuscendo ad offrire il miglior conto bancario a costo zero in Svizzera, apri un conto Zak ed usa il seguente codice per ottenere CHF 25.- all'apertura di un conto con Zak:
 
@@ -31,7 +33,7 @@ MW8RXV
 
 ## Neon
 
-![Neon](/assets/neon.jpg)
+![Neon](/assets/images/pages/neon.jpg)
 
 Un'alternativa a Zak, può essere Neon. Neon è simile a Zak, nel senso che è una soluzione digitale per un conto bancario in Svizzera ai minimi costi. Diversamente da Zak, Neon non è affiliata ad una banca "fisica" e quindi non ha sedi fisiche. In cambio offre prezzi molto competetivi ed un'ottima soluzione per l'estero. Ottieni CHF 20.- usando il seguente codice:
 
@@ -42,7 +44,7 @@ Un'alternativa a Zak, può essere Neon. Neon è simile a Zak, nel senso che è u
 
 ## Broker per investimenti: Degiro
 
-![Degiro](/assets/degiro.png)
+![Degiro](/assets/images/pages/degiro.png)
 
 Se desideri investire, Degiro offre investimenti ad ottimi costi competitivi. [Clicca qui](https://www.degiro.ch/kunden-werben-kunden-new/anlagekonto-er%C3%B6ffnen.html?id=8C87C4D4&referral_name=Omar%20Elabed&utm_source=mgm) per scoprirne di più ed approfittare su un buono di 20.- sulle commissioni!
 
