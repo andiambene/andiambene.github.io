@@ -6,7 +6,8 @@
 	border-radius: .25rem;
 	font-family: sans-serif;
 	margin: .5rem 0;
+	text-decoration: none;
 	&:hover {
-		text-decoration: none;
+		text-decoration: none!important;
 	}
 }
