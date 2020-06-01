@@ -1,8 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
 main {
     @include content-width;
     margin: 5em auto;
 }
 
+// typo
+// h1, h2, h3, h4, h5, h6
+h1, h2, h3, h4, h5, h6 {
+    margin: 3em 0 1em 0;
+}
+h1 {
+    text-transform: uppercase;
+}
+p, ul {
+    line-height: 1.75;
+}
+
+// quotes
 blockquote p {
     font-style: italic;
     margin: 0;
@@ -23,8 +44,8 @@ figcaption {
 
 
 time {
-    opacity: .5;
     font-size: .75em;
+    font-weight: bold;
 }
 
 
@@ -40,10 +61,6 @@ hr {
     border-bottom: 1px dashed rgba(0,0,0,0.5);
     margin: 2em 0;
     opacity: .5;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: sans-serif;
 }
 
 article,aside,nav,section {

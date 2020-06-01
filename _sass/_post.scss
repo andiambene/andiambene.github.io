@@ -1,6 +1,16 @@
 .post {
+    &__title {
+        margin: 1em 0;
+    }
     &__subtitle {
         font-size: 1.5em;
+        margin: 2em 0;
+        &:before {
+            content: '“';
+        }
+    }
+    &__header {
+        padding-top: 2rem;
     }
     &__intro {
         @include intro;
