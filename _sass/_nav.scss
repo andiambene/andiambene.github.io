@@ -2,7 +2,7 @@
     @include content-width;
 }
 .nav {
-    margin: 0 -.5rem;
+    margin: 2em -.5rem;
     &__link {
         vertical-align: middle;
         text-decoration: none;
@@ -12,9 +12,7 @@
         font-family: sans-serif;
         opacity: .75;
         transition: .2s;
-        // border-right: 1px dashed rgba(0,0,0,.25);
         line-height: 0.75rem;
-        margin-top: 2rem;
         &:first-child {
             margin-top: 0;
             font-style: italic;
@@ -27,12 +25,9 @@
                 position: fixed;
                 opacity: .5;
                 transition: opacity .2s;
-                &:hover, &:active, &:focus {
-                    opacity: 1;
-                }
             }
         }
-        &:hover {
+        &:hover, &:active, &:focus {
             opacity: 1;
         }
     }
