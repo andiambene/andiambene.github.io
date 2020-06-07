@@ -48,4 +48,21 @@
         padding: 1em 0;
         border-top: 1px dashed rgba(0, 0, 0, .5);
     }
+
+    @media (min-width: 36rem) {
+        &__content {
+            display: flex;
+        }
+
+        &__text {
+            padding-left: .5rem;
+            flex-grow: 1;
+            width: 50%;
+        }
+
+        &__image {
+            flex-grow: 1;
+            width: 50%;
+        }
+    }
 }

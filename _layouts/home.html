@@ -37,23 +37,27 @@ layout: default
                             {{ post.date | date: date_format }}
                         </a>
                     </div>
-                    {%- if post.img_src -%}
-                        <div class="post-list__image">
-                            <a class="" href="{{ post.url | relative_url }}">
-                                <img src="/assets/images/posts/thumbs/{{post.img_src}}" alt="{{post.img_alt}}">
-                            </a>
+                    <div class="post-list__content">
+                        {%- if post.img_src -%}
+                            <div class="post-list__image">
+                                <a class="" href="{{ post.url | relative_url }}">
+                                    <img src="/assets/images/posts/thumbs/{{post.img_src}}" alt="{{post.img_alt}}">
+                                </a>
+                            </div>
+                        {%- endif -%}
+                        <div class="post-list__text">
+                            <h3 class="post-list__title">
+                                <a class="" href="{{ post.url | relative_url }}">
+                                    {{ post.title | escape }}
+                                </a>
+                            </h3>
+                            <p class="post-list__intro">
+                                <a class="" href="{{ post.url | relative_url }}">
+                                    {{ post.subtitle }}
+                                </a>
+                            </p>
                         </div>
-                    {%- endif -%}
-                    <h3 class="post-list__title">
-                        <a class="" href="{{ post.url | relative_url }}">
-                            {{ post.title | escape }}
-                        </a>
-                    </h3>
-                    <p class="post-list__intro">
-                        <a class="" href="{{ post.url | relative_url }}">
-                            {{ post.subtitle }}
-                        </a>
-                    </p>
+                    </div>
                     <a href="{{ post.url | relative_url }}" class="link-button">Vai al post</a>
                     {%- if site.show_excerpts -%}
                     {{ post.excerpt }}
