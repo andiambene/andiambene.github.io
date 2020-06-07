@@ -39,7 +39,7 @@ Amo imparare cose nuove e risolvere problemi di ogni tipo.
 
 Detesto quando mi vengono sbattute porte in faccia (figurativamente e letteralmente).
 
-Amo leggere e le dialoghi che fanno riflettere. Amo sperimentare, mettendomi spesso anche in situazioni di difficoltà per poi imparare dai miei errori.
+Amo leggere e i dialoghi che fanno riflettere. Amo sperimentare, mettendomi spesso anche in situazioni di difficoltà per poi imparare dai miei errori.
 
 Le settimane più noiose a lavoro per me sono infatti quando non faccio errori e non ho un momento di riflessioni sugli errori commessi con il mio team.
 
@@ -47,7 +47,7 @@ Sono affascinato di qualsiasi cosa mutabile e soprattutto quelle sulle quali pos
 
 Amo il surf sulle onde ed amo la mia bicicletta.
 
-Credo che la mia bicicletta sia un simbolo di ricchezza in ogni senso. È simbolo di benessere di salute, è per me, non dover avere un'auto, è pure simbolo di privilegio di poter vivere dove è tutto raggiungibile senza dover muovere mezza tonnellata di materiale ovunque vado.
+Credo che la mia bicicletta sia un simbolo di ricchezza in ogni senso. È simbolo di benessere di salute e per me non dover avere un'auto, è pure simbolo di privilegio. È un segno di poter vivere dove tutto quello che mi serve è raggiungibile senza dover muovere mezza tonnellata di materiale ovunque vado – ovvero un bruciatore di benzina avvolto da tanta latta inverniciata.
 
 Una volta che vedo un vero senso per me in quel che sto facendo, mi appassiono e trovo modi per ottimizzare ogni aspetto di quel che faccio.
 
