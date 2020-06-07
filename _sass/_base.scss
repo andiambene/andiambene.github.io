@@ -55,6 +55,13 @@ pre {
     padding: 1em;
     background-color: #CCC;
 }
+#commento {
+    pre {
+        border-radius: 0;
+        padding: inherit;
+        background-color: inherit;
+    }
+}
 
 hr {
     border: 0;

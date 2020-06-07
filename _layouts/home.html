@@ -56,9 +56,9 @@ layout: default
                                     {{ post.subtitle }}
                                 </a>
                             </p>
+                            <a href="{{ post.url | relative_url }}" class="post-list__item-button link-button">Vai al post</a>
                         </div>
                     </div>
-                    <a href="{{ post.url | relative_url }}" class="link-button">Vai al post</a>
                     {%- if site.show_excerpts -%}
                     {{ post.excerpt }}
                     {%- endif -%}
