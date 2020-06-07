@@ -57,7 +57,7 @@ Sono testardo e devo vivere i miei errori sulla mia pelle per veramente crederci
 
 Lo sa soprattutto la mia dolce metà.
 
-Amo ogni minuto passato con lei. È una paziente maestra nel buon senso e dalla quale ho imparato come l'arte ci aiuta ad assimilare il mondo in altri modi. La stessa persona mi sta accompagnando da anni lungo il percorso che sto maturando e condividendo con voi qui ora. È grazie a lei che questo blog è scritto in un italiano comprensibile. (Vi giuro che ha pure corretto quest'ultima frase.) Grazie.
+Amo ogni minuto passato con lei. È una paziente maestra nel buon senso e dalla quale ho imparato come l'arte ci aiuta ad assimilare il mondo in altri modi. La stessa persona mi sta accompagnando da anni lungo il percorso che sto maturando e condividendo con voi qui ora. È grazie a lei che questo blog è scritto in un italiano comprensibile (vi giuro che ha pure corretto quest'ultima frase). Grazie.
 
 L'intento di questo blog è proprio quello di condivedere ciò che sto scoprendo attraverso alle mie esperienze personali in relazione con i soldi.
 
