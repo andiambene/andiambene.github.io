@@ -5,7 +5,12 @@ layout: default
     <header class="post__header">
         <h1 class="post__title">{{ page.title | escape }}</h1>
     </header>
-    <p>{{ page.intro }}</p>
+    <section class="post__intro">
+        {{ page.intro }}
+        {%- if page.img_src -%}
+            <img src="/assets/images/posts/full/{{page.img_src}}" alt="{{post.img_alt}}">
+        {%- endif -%}
+    </section>
     <section class="post__content">
         {{ content }}
     </section>
