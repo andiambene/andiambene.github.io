@@ -2,7 +2,7 @@
 title: About
 layout: page
 nav: false
-intro: Chi c'è dietro il blog e qual'è il suo intento?
+intro: Chi c'è dietro il blog e qual è il suo intento?
 ---
 
 Il blog in sé in realtà è frutto dei feedback dei lettori. Infatti la creazione di questa pagina è stato proprio un'idea di mia sorella. (Grazie mille, sis!)
