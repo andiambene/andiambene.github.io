@@ -57,13 +57,13 @@ Sono testardo e devo vivere i miei errori sulla mia pelle per veramente crederci
 
 Lo sa soprattutto la mia dolce metà.
 
-Amo ogni minuto passato con lei. È una paziente maestra nel buon senso e dalla quale ho imparato come l'arte ci aiuta ad assimilare il mondo in altri modi. La stessa persone mi sta accompagnando da anni lungo il percorso che sto maturando e condividendo con voi qui ora. È grazie lei che questo blog è scritto in un italiano comprensibile. Grazie.
+Amo ogni minuto passato con lei. È una paziente maestra nel buon senso e dalla quale ho imparato come l'arte ci aiuta ad assimilare il mondo in altri modi. La stessa persona mi sta accompagnando da anni lungo il percorso che sto maturando e condividendo con voi qui ora. È grazie a lei che questo blog è scritto in un italiano comprensibile. (Vi giuro che ha pure corretto quest'ultima frase.) Grazie.
 
 L'intento di questo blog è proprio quello di condivedere ciò che sto scoprendo attraverso alle mie esperienze personali in relazione con i soldi.
 
 Anche se parlo principalmente di soldi, non è quello l'obiettivo principale, ma è la libertà. I soldi sono soltanto uno dei tanti strumenti che possono darci più libertà. I soldi, se combinati bene con una buona educazione finanziaria ed un buon senso per le proprie priorità, possono darci in cambio più tempo.
 
-Il tempo in realtà è la vera risorsa della quale vogliamo arricchirci. Il sistema nel quale viviamo ci costringe di barattare il nostro tempo in cambio di denare. Se ci si pensa, questo non è veramente una transazione equa. I soldi sono una risorsa recuperabile. Se non faccio oggi 100.- posso farne 200.- domani. Il tempo invece è finito. Il giorno perso oggi, non è recuperabile.
+Il tempo in realtà è la vera risorsa della quale vogliamo arricchirci. Il sistema nel quale viviamo ci costringe a barattare il nostro tempo in cambio di denaro. Se ci si pensa, questo non è veramente una transazione equa. I soldi sono una risorsa recuperabile. Se non faccio oggi 100.- posso farne 200.- domani. Il tempo invece è finito. Il giorno perso oggi, non è recuperabile.
 
 Con questo blog spero di riuscire a documentare e condividere con voi quello che sto imparando strada facendo.
 
