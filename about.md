@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-nav: false
+nav: true
 intro: Chi c'è dietro il blog e qual è il suo intento?
 ---
 
