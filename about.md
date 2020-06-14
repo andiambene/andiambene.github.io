@@ -52,7 +52,7 @@ Divento spesso impaziente quando noto che sto perdendo tempo in cose e dialoghi 
 
 Sono testardo e devo vivere i miei errori sulla mia pelle per veramente crederci.
 
-Lo sa soprattutto la mia dolce metà, ricordandomi sempre che sono “proprio Ariete”.
+Lo sa soprattutto la mia dolce metà, ricordandomi sempre che sono “proprio un Ariete”.
 
 Amo ogni minuto passato con lei. È una paziente maestra nel buon senso dalla quale ho imparato come l’arte ci aiuta ad assimilare il mondo in altri modi. La stessa persona mi sta accompagnando da anni lungo il percorso che sto maturando e condividendo con voi qui ora. È grazie a lei che questo blog è scritto in un italiano comprensibile (vi giuro che ha pure corretto quest’ultima frase). Grazie.
 
