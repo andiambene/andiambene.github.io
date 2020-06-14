@@ -1,16 +1,16 @@
 .link-button {
 	display: inline-block;
 	padding: 0.15em .75em;
-	background: black;
 	opacity: .5;
-	color:white;
 	border-radius: .25rem;
 	font-family: sans-serif;
 	margin: .5rem 0;
 	font-size: 0.8rem;
 	text-decoration: none;
 	transition: .2s;
+	border: 1px dashed;
 	&:hover {
+		border: 1px solid;
 		opacity: 1;
 		text-decoration: none!important;
 	}
