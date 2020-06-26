@@ -68,7 +68,7 @@ Una volta che decidiamo di avviarci verso questi sentieri, notiamo subito una co
 Non temere caro avventuriero. Ricordatevi che siamo qui per andar bene e siamo qui insieme.
 
 
-## Quarta tappa: _Passo del Mercante_
+## Terza tappa: _Passo del Mercante_
 Nella quiete della natura passiamo tra boschetti di cuniferi e laghetti alpini con i loro ruscelli di acqua cristallina.
 
 Strada facendo cominciamo a notare quello che ci circonda. A volte ci fermiamo e proviamo a capire meglio, parlandone anche con chi ci accompagna. È un pino o un abete quello? Qual'è la differenza tra quei due tipi di piante? Cos'hanno in comune invece? Quale di questi sentieri ci porta prima alla cima?
