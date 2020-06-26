@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Prepararsi"
-subtitle: "Per andar bene, una delle prime cose che dobbiamo fare, è mettere da parte un bel cuscinetto: per la sicurezza nostra e per stare tranquilli mentalmente"
-date: 2020-07-24
-tags: ["portfolio"]
+subtitle: "Per andar bene, una delle prime cose che dobbiamo fare, è mettere da parte un bel cuscinetto: per la nostr sicurezza finanziaria e per la nostra sanità mentale"
+date: 2020-06-25
+tags: ["risparmiare"]
 author: Andiambene
 comments: true
 img_src: backpacking.jpg
@@ -11,15 +11,15 @@ img_alt: Backpacking
 url: "http://andiambene.com/2020/07/24/prepararsi.html"
 ---
 
-Quando parlo con i miei cari del fatto che nel mio portfolio d'investimenti investo una buona fetta del mio patrimonio sul mercato azionario, mi guardano sconcertati e mi chiedono se non rischio di perdere tutto.
+Quando parlo con i miei parenti e la mia ragazza del fatto che nel mio portfolio d'investimenti investo una buona fetta del mio patrimonio sul mercato azionario, mi guardano sconcertati e mi chiedono se non rischio di perdere tutto.
 
-Al ché spesso mi viene il dubbio e per sicurezza vado a controllare il mio portfolio. Finora tutto andiam bene. Pure durante il mese di marzo di quest'anno, con tutta la crisi ed il mercato azionari sotto-sopra, andava bene.
+Al ché spesso mi viene il dubbio e per sicurezza vado a controllare il mio portfolio. Finora andiam bene. Pure durante il mese di marzo di quest'anno, con tutta la crisi ed il mercato azionari sotto-sopra, andava bene.
 
 Aveva perso di tanto valore anche il mio portfolio in quei giorni, ma mi sembrava tutto a posto.
 
 Ora voi mi chiedete come faccio a stare così tranquillo con un portfolio che è nel rosso?
 
-La risposta: risparmio.
+La risposta sta nel come mi sono preparato mentalmente e soprattutto finanziariamente a questa avventura.
 
 Dato che ultimamente tendiamo a viaggiare un po' meno, voglio portarvi comunque in gita all'aria aperta.
 
@@ -57,7 +57,7 @@ Un/a buon/a _andiambeniana/o_ [sa quanto spende](http://andiambene.com/2020/05/2
 
 Se notiamo che al mese spendiamo attorno ai CHF 2'500.- accumuliamo almeno CHF 7'500.- nel fienile prima di proseguire con la nostra escursione.
 
-Anche se i nonni non sono d'accordo, questa volta diamo retta al Signor _Dawes Senior_, il vecchio banchiere in _Mary Poppins_, e lasciamo questi soldi in banca su un conto risparmio.
+Anche se i nonni non sono d'accordo, questa volta diamo retta al [_Signor Dawes Padre_](https://youtu.be/wg5G1yYb9VA), il vecchio banchiere in _Mary Poppins_, e lasciamo questi soldi in banca su un conto risparmio.
 
 Possibilmente noi ne scegliamo uno con un buon interesse o semplicemente l'opzione con l'interesse più alto presso la banca dove ci troviamo al momento. Nonostante le opzioni siano molte, la maggior parte dei conti risparmio in svizzera si aggirano attorno ai massimi di ca. 0.2% annui. Non è molto, ma assicuratevi di stare alla larga da qualsias cosa che si avvicini sempre di più allo 0%.
 
@@ -68,7 +68,7 @@ Una volta che decidiamo di avviarci verso questi sentieri, notiamo subito una co
 Non temere caro avventuriero. Ricordatevi che siamo qui per andar bene e siamo qui insieme.
 
 
-## Quarta tappa: il _Passo del Mercante_
+## Quarta tappa: _Passo del Mercante_
 Nella quiete della natura passiamo tra boschetti di cuniferi e laghetti alpini con i loro ruscelli di acqua fresca.
 
 Strada facendo cominciamo a notare quello che ci circonda. A volte ci fermiamo e proviamo a capire meglio, parlandone anche con chi ci accompagna. È un pino o un abete quello? Qual'è la differenza tra quei due tipi di piante? Cos'hanno in comune invece? Quale di questi sentieri ci porta prima alla cima?
