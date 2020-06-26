@@ -44,14 +44,14 @@ Questo 1'000.- è quel parente comprensibile che vi ha sempre consolato quando t
 Una volta che abbiamo fatto amicizia con questo nostro nuovo amico che ci aspetterà sempre a _Via dei Mille_, possiamo fare un po' di rifornimenti nel negozietto del paesino in fondo alla valle e rimetterci il sacco in spalle. Si riparte e si va alla nostra prossima tappa.
 
 
-## Seconda tappa: _Capanna del Terzo Mese_
+## Seconda tappa: _Capanna Tre Mesi_
 L'escursione prosegue! Abbiamo in mente di arrivare in cima alle vette. Strada facendo faremo tappa alla nostra prima capanna.
 
-Rispetto a _Via dei Mille_, la _Capanna del Terzo Mese_ è un vero e proprio impianto che può ospitarci per più tempo. Ha tutto il necessario per offrirci cibo, caldo e tutto il necessario per almeno tre mesi consecutivi.
+Rispetto alla _Via dei Mille_, la _Capanna Tre Mesi_ è un vero e proprio impianto che può ospitarci per più tempo. Ha tutto il necessario per offrirci cibo, caldo e tutto il necessario per almeno tre mesi consecutivi.
 
 È esattamente dove vogliamo arrivare anche con i nostri risparmi prima di avviarci veramente verso l'avventura. Vogliamo assicurarci che in zona del parco naturale vi è una capanna nella quale, mal che vadano le cose, possiamo rifugiarci.
 
-Questo rifugio equivale almeno 3 mesi di spese.
+Questo rifugio equivale **almeno 3 mesi di spese**.
 
 Un/a buon/a _andiambeniana/o_ [sa quanto spende](http://andiambene.com/2020/05/24/iniziare.html), [sa perché ed i trucchi per farlo al meglio](http://andiambene.com/2020/06/24/attivare.html) e quindi sa ora all'incirca quanto le/gli costano tre mesi.
 
@@ -59,7 +59,7 @@ Se notiamo che al mese spendiamo attorno ai CHF 2'500.- accumuliamo almeno CHF 7
 
 Anche se i nonni non sono d'accordo, questa volta diamo retta al [_Signor Dawes Padre_](https://youtu.be/wg5G1yYb9VA), il vecchio banchiere in _Mary Poppins_, e lasciamo questi soldi in banca su un conto risparmio.
 
-Possibilmente noi ne scegliamo uno con un buon interesse o semplicemente l'opzione con l'interesse più alto presso la banca dove ci troviamo al momento. Nonostante le opzioni siano molte, la maggior parte dei conti risparmio in svizzera si aggirano attorno ai massimi di ca. 0.2% annui. Non è molto, ma assicuratevi di stare alla larga da qualsias cosa che si avvicini sempre di più allo 0%.
+Possibilmente noi ne scegliamo uno con un buon interesse o semplicemente l'opzione con l'interesse più alto presso la banca dove ci troviamo al momento. Nonostante le opzioni siano molte, la maggior parte dei conti risparmio in svizzera si aggirano attorno ai massimi di ca. 0.2% annui – salvo qualche promozione qua là.
 
 Una volta che sappiamo che la capanna è sistemata, riempiamo la borraccia alla fontana, salutiamo il gregge di mucche e ci avviamo per i sentieri delle vette più alte.
 
@@ -69,7 +69,7 @@ Non temere caro avventuriero. Ricordatevi che siamo qui per andar bene e siamo q
 
 
 ## Quarta tappa: _Passo del Mercante_
-Nella quiete della natura passiamo tra boschetti di cuniferi e laghetti alpini con i loro ruscelli di acqua fresca.
+Nella quiete della natura passiamo tra boschetti di cuniferi e laghetti alpini con i loro ruscelli di acqua cristallina.
 
 Strada facendo cominciamo a notare quello che ci circonda. A volte ci fermiamo e proviamo a capire meglio, parlandone anche con chi ci accompagna. È un pino o un abete quello? Qual'è la differenza tra quei due tipi di piante? Cos'hanno in comune invece? Quale di questi sentieri ci porta prima alla cima?
 
