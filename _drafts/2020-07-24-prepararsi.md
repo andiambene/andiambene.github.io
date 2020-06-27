@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prepararsi"
-subtitle: "Per andar bene, una delle prime cose che dobbiamo fare, è mettere da parte un bel cuscinetto: per la nostr sicurezza finanziaria e per la nostra sanità mentale"
+subtitle: "Una delle prime cose che dobbiamo fare prima di investire è accumulare un bel cuscinetto: per la nostra sicurezza finanziaria (e per la nostra sanità mentale)"
 date: 2020-06-25
 tags: ["risparmiare"]
 author: Andiambene
