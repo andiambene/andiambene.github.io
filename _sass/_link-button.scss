@@ -1,7 +1,7 @@
 .link-button {
+	@include dim;
 	display: inline-block;
 	padding: 0.15em .75em;
-	opacity: .5;
 	border-radius: .25rem;
 	font-family: sans-serif;
 	margin: .5rem 0;

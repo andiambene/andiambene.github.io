@@ -2,7 +2,7 @@
 title: Andiambene
 layout: home
 nav: false
-intro: Blog di finanza personale in Svizzera con frequenza mensile.
+intro: Blog di finanza personale di lingua italiana in Svizzera.
 ---
 
-Leggi un post nuovo ogni 24esimo del mese, con consigli pratici e spunti sui quali riflettere per ottimizzare decisioni finanziarie a lungo termine.
+Segui _Andiambene_ lungo la sua strada verso la libertà finanziaria personale con un post nuovo ogni 24esimo del mese con riflessioni, spunti e consigli pratici per una migliore salute finanziaria in Svizzera.

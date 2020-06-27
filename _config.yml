@@ -20,7 +20,7 @@
 
 title: Andiambene
 email: andiambene@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: Blog di finanza personale di lingua italiana in Svizzera.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "andiambene.com" # the base hostname & protocol for your site, e.g. http://example.com
 disclaimer_title: Dichiarazione di non responsabilità

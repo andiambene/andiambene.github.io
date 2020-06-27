@@ -33,6 +33,7 @@
 
     &__item-date {
         @include dim;
+        font-size: .75em;
     }
 
     &__title, &__intro {

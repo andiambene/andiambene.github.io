@@ -4,5 +4,6 @@
     border-top: 1px solid rgba(0,0,0,.5);
     &__disclaimer {
         @include dim;
+        font-size: .75em;
     }
 }
