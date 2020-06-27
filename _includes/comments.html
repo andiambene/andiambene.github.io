@@ -1,8 +1,26 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<br>
-<br>
-<br>
-<hr>
-<div id="commento"></div>
+<div id="lazyLoadCommento" class="lazy">
+	<noscript>Attiva JavaScript nel browser per commentare.</noscript>
+</div>
+<script type="text/javascript">
+	document.addEventListener("DOMContentLoaded", function() {
+		var lazyLoadCommento = document.getElementById('lazyLoadCommento');
+		if ("IntersectionObserver" in window) {
+			let lazyLoadCommentoObserver = new IntersectionObserver(function(entries, observer) {
+				console.log(entries);
+				entries.forEach(function(entry){
+					if (entry.isIntersecting) {
+						var div = entry.target;
+						div.innerHTML = '<br><br><br><hr><div id="commento"></div>';
+						var script = document.createElement('script');
+						script.defer = true;
+						script.src="https://cdn.commento.io/js/commento.js";
+						div.prepend(script);
+					}
+				})
+			});
+			lazyLoadCommentoObserver.observe(lazyLoadCommento);
+		}
+	});
+</script>
 {%- endif -%}
