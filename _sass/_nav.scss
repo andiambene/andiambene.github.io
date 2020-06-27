@@ -23,10 +23,9 @@
             top:0; left: 0;
             padding: 1.25rem .5rem;
             @media (min-width: 850px) {
-                padding: 3rem .5rem;
+                padding: 3.25rem .5rem;
                 position: fixed;
                 opacity: .5;
-                transition: opacity .2s;
             }
         }
         &:hover, &:active, &:focus {
