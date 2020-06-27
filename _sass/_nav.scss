@@ -21,9 +21,9 @@
             text-transform: uppercase;
             position: absolute;
             top:0; left: 0;
-            padding: 1.25rem .5rem;
+            padding: 1.25rem 1rem;
             @media (min-width: 850px) {
-                padding: 3.25rem .5rem;
+                padding: 3.25rem 1rem;
                 position: fixed;
                 opacity: .5;
             }
