@@ -28,7 +28,7 @@ Dato che ultimamente tendiamo a viaggiare un po' meno, voglio portarvi per una b
 Rifornite lo zaino da montagna e stringete bene le stringhe degli scarponi.
 
 
-## Prima tappa: _Via dei Mille_ – un rifugio finanziario e mentale
+## Prima tappa: _Via dei Mille_ <br><small>– Almeno 1'000.- in un posto sicuro</small>
 La nostra prima tappa è a _Via dei Mille_. Alcuni ci arrivano in fretta. Qualcun altro deve prendersi un attimo di più tempo, ma pian piano l'intero gruppo si raduna.
 
 Avete in mente quando si parla dei nonni che preferiscono mettere i propri soldi sotto il materasso che darli ad una banca?
@@ -48,7 +48,7 @@ Una volta che abbiamo fatto amicizia con questo nostro nuovo amico che ci aspett
 Si riparte e si va alla nostra prossima tappa.
 
 
-## Seconda tappa: _Capanna Tre Mesi_ – un'assicurazione fai da te
+## Seconda tappa: _Capanna Tre Mesi_ <br><small>– Almeno 3 mesi di spese su un conto risparmio</small>
 
 L'escursione prosegue! Abbiamo in mente di arrivare in cima alle vette. Strada facendo faremo però una tappa molto importante.
 
@@ -56,7 +56,9 @@ Rispetto alla _Via dei Mille_, la _Capanna Tre Mesi_ è un vero e proprio impian
 
 È esattamente dove vogliamo arrivare anche con i nostri risparmi prima di avviarci veramente verso l'avventura. Vogliamo assicurarci che in zona delle montagne che vogliamo conquistare, vi è sempre una capanna, nella quale, mal che vadano le cose, possiamo rifugiarci.
 
-Questo rifugio equivale **almeno 3 mesi di spese**.
+Questo rifugio equivale **almeno l'equivalente di 3 mesi di spese su un conto risparmio**.
+
+Se il nostro conto risparmio non raffigura questa cifra, faremo di tutto per assicurarci tappare questo buco.
 
 Gli _andiambeniani_ [sanno quanto spendono](http://andiambene.com/2020/05/24/iniziare.html), [sanno perché ed i trucchi per farlo al meglio](http://andiambene.com/2020/06/24/attivare.html) e quindi sanno ora all'incirca quanto ammontano tre mesi di spese.
 
@@ -75,13 +77,13 @@ Una volta che decidiamo di avviarci verso questi sentieri, noteremo dei cambiame
 Non temere caro avventuriero. Ricordatevi che siamo qui per andar bene e siamo qui insieme.
 
 
-## Terza tappa: _Passo del Mercante_ – iniziare ad investire
+## Terza tappa: _Passo del Mercante_<br><small>– Pianificare ed avviare i nostri investimenti</small>
 
 Nella quiete della natura passiamo tra boschi di conifere e laghetti alpini con i loro ruscelli di acqua cristallina.
 
 Strada facendo cominciamo a notare quello che ci circonda. A volte ci fermiamo e proviamo a capire meglio, parlandone anche con chi ci accompagna. È un pino o un abete quello? Qual'è la differenza tra quei due tipi di piante? Cos'hanno in comune invece? Quale di questi sentieri ci porta prima alla cima?
 
-Una cosa simile succede quando vogliamo cominciare a fare qualcosa in più con i nostri risparmi. Cominciamo a chiederci cose come: cosa vuol dire investire? Cos'è un portfolio d'investimento? In cosa si può investire? Su cosa devo guardare particolarmente quando desidero investire? Come si inizia?
+Una cosa simile succede quando vogliamo cominciare a fare qualcosa in più con i nostri risparmi. Cominciamo a chiederci cose come: **cosa vuol dire investire? Cos'è questo _portfolio_ di cui continua a parlare _Andiambene_? In cosa si può investire? Su cosa devo guardare particolarmente quando desidero investire? Come si inizia?**
 
 Questi sentieri sono dove voglio portare tutte le _andiambeniane_ e gli _andiambeniani_ con questo tipo di domande.
 
@@ -89,34 +91,36 @@ Queste sono le domande sulle quali ci scambieremo ed un passo dopo l'altro trove
 
 È proprio sui sentieri più nascosti e meno battuti che spesso tornano utile degli alleati.
 
-Rinforzati quindi con il sostegno dei nostri compagni di viaggio, una volta che avremo le risposte, cominceremo a pianificare, modellare e mettere in moto la nostra macchina personale dell'indipendenza finanziaria. Con questa macchina riusciremo a mettere all'attivo i nostri soldi, investendoli e facendoli fruttare, spesso anche almeno in parte in modo automatizzato.
+Rinforzati quindi con il sostegno dei nostri compagni di viaggio, una volta che avremo le risposte, cominceremo a **pianificare** ed **investire**.
 
 Scopriremo in futuro quali passi concreti possiamo intraprendere per far sì che questo possa diventare la nostra realtà.
 
-Per ora immaginatevi che ce l'avete fatta e siamo quindi arrivati al _Passo del Mercante_. Ci fermiamo e prendiamo un sospiro profondo.
+Per ora immaginiamoci che ce l'abbiamo fatta a rispondere le domande fondamentali e sappiamo come proseguire se ne avremo altre in futuro. Siamo quindi arrivati al _Passo del Mercante_.
 
-È giunta l'ora di accamparsi per la notte. Qualcuno prepara il fuoco e qualcun altro monta la tenda. Intanto io vado a riempire le borracce che domattina ci alziamo presto e sceglieremo le nostre vette.
+Ci fermiamo, molliamo lo zaino, prendiamo un bel sospiro profondo ed un sorso di acqua della sorgente dalla nostra borraccia.
+
+È giunta l'ora di accamparsi per la notte.
+
+Qualcuno prepara il fuoco e qualcun altro monta la tenda. Intanto io vado a riempire di nuovo le borracce che domattina ci alziamo presto e ciascuno di noi potrà scegliere la sua vetta.
 
 
-## Quarta tappa: _Vetta Andiambeniana_ – raggiungere l'indipendenza finanziaria
+## Quarta tappa: _Vetta Andiambeniana_<br><small>– Raggiungere i nostri obiettivi finanziari</small>
 
-La quiete della notte ci ha dato la ricarica per ripartire freschi. Durante la notte abbiamo sognato di vivere una vita in cui tutte le decisioni precedenti ci hanno portato in cima alla nostra vetta personale di una vita finanziaria in sintonia con noi.
+La quiete della notte ci ha dato la ricarica per ripartire freschi. Durante la notte abbiamo sognato di vivere una vita in cui tutte le decisioni precedenti ci hanno portato in cima alla nostra vetta personale di una vita finanziaria in sintonia con il nostro stile di vita.
 
-Sappiamo che vetta è molto personale e saranno in pochi a volere la stessa.
-
-Pieni di ispirazione e con una nuova carica, usciamo dal nostro sacco a pelo e ci stiracchiamo all'aria fresca.
+Pieni di ispirazione e con una nuova carica, usciamo dal nostro sacco a pelo e ci stiracchiamo e riempiamo i polmoni con d'aria fresca alpina.
 
 Di fronte a noi vediamo tante vette.
 
-La _Vetta Andiambeniana_ infatti è una vetta particolare. Infatti, per ogni _andiambeniana_ e per ogni _andiambeniano_ ce n'è una!
+**La _Vetta Andiambeniana_ è molto personale ed è definita dai nostri caratteri, bisogni e motivazioni individuali.**
 
 La tua vetta la puoi definire come vuoi. Sta però a te ricaricarti con una buona colazione ed assicurarti che avrai il necessario per raggiungerla.
 
 Alcune vette ci metteremo di più a raggiungerla, altre meno. Questo dipende tutto da noi. Dipende da come ci incamminiamo, con che astuzia superiamo le nostre sfide e con quale dedizione continuiamo a nutrire la nostra intelligenza finanziaria.
 
-Qual'è la tua vetta?
+Come descriveresti la tua vetta?
 
-Anche se in questo momento la descrivo in un modo, i buon _andiambeniani_ sanno che questa può cambiare nel tempo. Magari qualcuno desidera fermarsi un po' prima ed altri ne vogliono invece conquistare una dopo l'altra.
+Anche se in questo momento la descriviamo in un certo modo, i buoni _andiambeniani_ sanno che essa può cambiare nel tempo. Ciò non importa. Importa di più che sappiamo che tante di esse possiamo raggiungerle, se sappiamo pianificare e tenere la rotta nella loro direzione.
 
 
 ## Conclusione
