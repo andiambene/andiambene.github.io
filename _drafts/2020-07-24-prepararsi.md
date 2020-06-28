@@ -26,7 +26,7 @@ Dato che ultimamente tendiamo a viaggiare un po' meno, voglio portarvi comunque 
 Preparatevi il pranzo al sacco e stringete bene le stringhe degli scarponi: si va verso l'avventura.
 
 
-## Prima tappa: _Via dei Mille_
+## Prima tappa: _Via dei Mille_ – un rifugio finanziario e mentale
 La nostra prima tappa è a _Via dei Mille_. Alcuni ci arrivano in fretta. Qualcun altro deve prendersi un attimo di più tempo, ma pian piano l'intero gruppo si raduna.
 
 Avete in mente quando si parla dei nonni che preferiscono mettere i propri soldi sotto il materasso che darli ad una banca?
@@ -44,7 +44,7 @@ Questo 1'000.- è quel parente comprensibile che vi ha sempre consolato quando t
 Una volta che abbiamo fatto amicizia con questo nostro nuovo amico che ci aspetterà sempre a _Via dei Mille_, possiamo fare un po' di rifornimenti nel negozietto del paesino in fondo alla valle e rimetterci il sacco in spalle. Si riparte e si va alla nostra prossima tappa.
 
 
-## Seconda tappa: _Capanna Tre Mesi_
+## Seconda tappa: _Capanna Tre Mesi_ – un'assicurazione fai da te
 L'escursione prosegue! Abbiamo in mente di arrivare in cima alle vette. Strada facendo faremo tappa alla nostra prima capanna.
 
 Rispetto alla _Via dei Mille_, la _Capanna Tre Mesi_ è un vero e proprio impianto che può ospitarci per più tempo. Ha tutto il necessario per offrirci cibo, caldo e tutto il necessario per almeno tre mesi consecutivi.
@@ -68,7 +68,7 @@ Una volta che decidiamo di avviarci verso questi sentieri, notiamo subito una co
 Non temere caro avventuriero. Ricordatevi che siamo qui per andar bene e siamo qui insieme.
 
 
-## Terza tappa: _Passo del Mercante_
+## Terza tappa: _Passo del Mercante_ – iniziare ad investire
 Nella quiete della natura passiamo tra boschi di conifere e laghetti alpini con i loro ruscelli di acqua cristallina.
 
 Strada facendo cominciamo a notare quello che ci circonda. A volte ci fermiamo e proviamo a capire meglio, parlandone anche con chi ci accompagna. È un pino o un abete quello? Qual'è la differenza tra quei due tipi di piante? Cos'hanno in comune invece? Quale di questi sentieri ci porta prima alla cima?
@@ -78,3 +78,62 @@ Una cosa simile succede quando vogliamo cominciare a fare qualcosa in più con i
 Questi sentieri sono dove voglio portare tutte le _andiambeniane_ e gli _andiambeniani_ con questo tipo di domande.
 
 Queste sono le domande sulle quali ci scambieremo ed un passo dopo l'altro troveremo delle risposte insieme.
+
+È proprio sui sentieri più nascosti e meno battuti che spesso tornano utile degli alleati.
+
+Rinforzati quindi con il sostegno dei nostri compagni di viaggio, una volta che avremo le risposte, cominceremo a pianificare, modellare e mettere in moto la nostra macchina personale dell'indipendenza finanziaria. Con questa macchina riusciremo a mettere all'attivo i nostri soldi, investendoli e facendoli fruttare, spesso anche almeno in parte in modo automatizzato.
+
+Scopriremo in futuro quali passi concreti possiamo intraprendere per far sì che questo possa diventare la nostra realtà.
+
+Per ora immaginatevi che ce l'avete fatta e siamo quindi arrivati al _Passo del Mercante_. Ci fermiamo e prendiamo un sospiro profondo.
+
+È giunta l'ora di accamparsi per la notte. Qualcuno prepara il fuoco e qualcun altro monta la tenda. Intanto io vado a riempire le borracce che domattina ci alziamo presto e sceglieremo le nostre vette.
+
+
+## Quarta tappa: _Vetta Andiambeniana_ – raggiungere l'indipendenza finanziaria
+
+La quiete della notte ci ha dato la ricarica per ripartire freschi. Durante la notte abbiamo sognato di vivere una vita in cui tutte le decisioni precedenti ci hanno portato in cima alla nostra vetta personale di una vita finanziaria in sintonia con noi.
+
+Sappiamo che vetta è molto personale e saranno in pochi a volere la stessa.
+
+Pieni di ispirazione e con una nuova carica, usciamo dal nostro sacco a pelo e ci stiracchiamo all'aria fresca.
+
+Di fronte a noi vediamo tante vette.
+
+La _Vetta Andiambeniana_ infatti è una vetta particolare. Infatti, per ogni _andiambeniana_ e per ogni _andiambeniano_ ce n'è una!
+
+La tua vetta la puoi definire come vuoi. Sta però a te ricaricarti con una buona colazione ed assicurarti che avrai il necessario per raggiungerla.
+
+Alcune vette ci metteremo di più a raggiungerla, altre meno. Questo dipende tutto da noi. Dipende da come ci incamminiamo, con che astuzia superiamo le nostre sfide e con quale dedizione continuiamo a nutrire la nostra intelligenza finanziaria.
+
+Qual'è la tua vetta?
+
+Anche se in questo momento la descrivo in un modo, i buon _andiambeniani_ sanno che questa può cambiare nel tempo. Magari qualcuno desidera fermarsi un po' prima ed altri ne vogliono invece conquistare una dopo l'altra.
+
+
+## Conclusione
+
+Siamo passati dalle vie delle valli, abbiamo fatto tappa alla capanna, ed abbiamo raggiunto il passo prima di avviarci verso la nostra vetta.
+
+Strada facendo abbiamo imparato quanto è importante trattare sé stessi e le proprie finanze con rispetto e assicurarci per le eventuali sorprese del futuro.
+
+Una volta che avremo abbastanza da parte, tutta questa sicurezza al 100% è un po' monotona per noi _andiambeniani_. Ci viene quindi naturale cominciare a porre delle domande.
+
+Le risposte a queste domande ci porteranno a capire meglio come iniziare a prepararci ed avviarci verso le nostre vette.
+
+Presto vedremo con quali opzioni concrete di investimento ho sperimentato io e sono attualmente le mie preferite. Prima di parlare di quello però, ci ho tenuto a prepararvi all'avventura.
+
+**È molto importante che sappiamo risparmiare.**
+
+Anche se dovessimo avere un portfolio di una buona somma, risparmiare ci aiuta a rifornirlo di sostanza per crescere e lavorare per noi.
+
+Risparmiare non ci aiuta soltanto a correggere errori finanziari, ma anche accelerare le decisioni finanziarie intelligenti.
+
+Voi dove vi trovate?
+
+1. Siete già stati in _Via dei Mille_?
+2. Avete già assicurato i rifornimenti necessari nella _Capanna Tre Mesi_?
+3. Vi siete già avviati al _Passo del Mercante_?
+4. Se per caso hai già raggiunto la tua _Vetta Andiambeniana_, ti prego di mettitti in contatto con me! Sono curioso di sapere la tua storia.
+
+Io mi trovo sulle vie del _Passo del Mercante_ e sto imparando sempre di più su come posso migliorare ed accelerare il mio cammino verso la mia _Vetta Andiambeniana_, la quale la sto ancora definendo.
