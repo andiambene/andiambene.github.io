@@ -150,4 +150,4 @@ Dove vi trovate cari avventurieri?
 
 Io mi trovo sulle vie del _Passo del Mercante_ e sto imparando sempre di più su come posso migliorare ed accelerare il mio cammino verso la mia _Vetta Andiambeniana_, la quale la sto ancora definendo.
 
-Nonostante la mia posizione geografica attuale, sono sempre contento di poter dare una mano a qualsiasi persona che si trova ad un altra altitudine dei sentiri. Commentate pure o mettetevi in contatto con me se desiderate scambiarvi su alcune tematice.
+Nonostante la mia posizione geografica attuale, sono sempre contento di poter dare una mano a qualsiasi persona che si trova ad un altra altitudine dei sentiri. Commentate pure o mettetevi in contatto con me se desiderate scambiarvi su alcune tematiche.
