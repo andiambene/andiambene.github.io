@@ -69,8 +69,12 @@ Non temere caro avventuriero. Ricordatevi che siamo qui per andar bene e siamo q
 
 
 ## Terza tappa: _Passo del Mercante_
-Nella quiete della natura passiamo tra boschetti di cuniferi e laghetti alpini con i loro ruscelli di acqua cristallina.
+Nella quiete della natura passiamo tra boschi di conifere e laghetti alpini con i loro ruscelli di acqua cristallina.
 
 Strada facendo cominciamo a notare quello che ci circonda. A volte ci fermiamo e proviamo a capire meglio, parlandone anche con chi ci accompagna. È un pino o un abete quello? Qual'è la differenza tra quei due tipi di piante? Cos'hanno in comune invece? Quale di questi sentieri ci porta prima alla cima?
 
 Una cosa simile succede quando vogliamo cominciare a fare qualcosa in più con i nostri risparmi. Cominciamo a chiederci cose come: cosa vuol dire investire? Cos'è un portfolio d'investimento? In cosa si può investire? Su cosa devo guardare particolarmente quando desidero investire? Come si inizia?
+
+Questi sentieri sono dove voglio portare tutte le _andiambeniane_ e gli _andiambeniani_ con questo tipo di domande.
+
+Queste sono le domande sulle quali ci scambieremo ed un passo dopo l'altro troveremo delle risposte insieme.
