@@ -37,3 +37,7 @@ Impiego di una somma di denaro in un'impresa o nell'acquisto di valori o beni du
 
 ## Passivi
 L'insieme dei beni a nostro nome o in nostro possesso che nel tempo perdono valore oppure ci costano soldi.
+
+
+## _Sostanza Andiambeniana_
+_Sostanza Andiambeniana_ = _Cash_ 🤑
