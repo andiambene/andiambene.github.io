@@ -17,7 +17,7 @@ Quando parlo con i miei parenti e la mia ragazza del fatto che investo sul merca
 
 Al ché spesso mi viene il dubbio e per sicurezza vado a controllare come stanno i miei soldatini. Finora devo dire che andiam bene.
 
-Aveva perso di tanto valore anche il mio portfolio d'investimento azionario nei giorni cupi di pandemia del Marzo 2020, ma secondo i miei piani ed i miei calcoli mi pareva tutto tranquillo.
+Aveva perso di tanto valore anche i miei investimenti azionari nei giorni cupi di pandemia del Marzo 2020, ma secondo i miei piani ed i miei calcoli mi pareva tutto tranquillo.
 
 Ora voi mi chiedete come faccio a stare così tranquillo con un portfolio che mostra una perdita?
 
