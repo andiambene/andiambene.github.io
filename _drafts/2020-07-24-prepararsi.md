@@ -13,7 +13,7 @@ url: "http://andiambene.com/2020/07/24/prepararsi.html"
 
 ![Backpacking](/assets/images/posts/full/backpacking.jpg)
 
-Quando parlo con i miei parenti e la mia ragazza del fatto che nel mio portfolio d'investimenti investo una buona fetta del mio patrimonio sul mercato azionario, mi guardano sconcertati e mi chiedono se non rischio di perdere tutto.
+Quando parlo con i miei parenti e la mia ragazza del fatto che investo sul mercato azionario, mi guardano sconcertati e mi chiedono se non rischio di perdere tutto.
 
 Al ché spesso mi viene il dubbio e per sicurezza vado a controllare come stanno i miei soldatini. Finora devo dire che andiam bene.
 
