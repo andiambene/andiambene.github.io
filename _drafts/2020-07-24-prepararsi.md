@@ -2,7 +2,7 @@
 layout: post
 title: "Prepararsi per la vetta"
 subtitle: "Una delle prime cose che dobbiamo fare prima di investire è risparmiare: per la nostra sicurezza finanziaria e quiete mentale"
-date: 2020-07-25
+date: 2020-06-25
 tags: ["risparmiare"]
 author: Andiambene
 comments: true
@@ -56,7 +56,7 @@ Rispetto alla _Via dei Mille_, la _Capanna Tre Mesi_ è un vero e proprio impian
 È esattamente dove vogliamo arrivare anche con i nostri risparmi prima di avviarci veramente verso l'avventura. Vogliamo assicurarci che in zona delle montagne che vogliamo conquistare, vi è sempre una capanna, nella quale, mal che vadano le cose, possiamo rifugiarci.
 
 Questo rifugio equivale **almeno l'equivalente di 3 mesi di spese su un [conto risparmio](/glossario.html#conto-risparmio){:target="glossario"}**.
-<!-- TODO: #conto-risparmio -->
+
 Se il nostro conto risparmio non raffigura questa cifra, faremo di tutto per assicurarci tappare questo buco.
 
 Gli _andiambeniani_ [sanno quanto spendono](http://andiambene.com/2020/05/24/iniziare.html), [sanno perché ed i trucchi per farlo al meglio](http://andiambene.com/2020/06/24/attivare.html) e quindi sanno ora all'incirca quanto ammontano tre mesi di spese.
