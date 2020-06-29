@@ -24,9 +24,14 @@ p, ul, ol {
 }
 
 // quotes
-blockquote p {
-    font-style: italic;
-    margin: 0;
+blockquote {
+    border-left: 0.25rem solid gainsboro;
+    margin-left: 0;
+    padding-left: 3rem;
+    p {
+        font-style: italic;
+        margin: 0;
+    }
 }
 
 // #images
