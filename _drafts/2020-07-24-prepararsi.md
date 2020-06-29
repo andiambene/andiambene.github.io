@@ -2,7 +2,7 @@
 layout: post
 title: "Prepararsi per la vetta"
 subtitle: "Una delle prime cose che dobbiamo fare prima di investire è risparmiare: per la nostra sicurezza finanziaria e quiete mentale"
-date: 2020-06-25
+date: 2020-07-25
 tags: ["risparmiare"]
 author: Andiambene
 comments: true
@@ -11,15 +11,13 @@ img_alt: Backpacking
 url: "http://andiambene.com/2020/07/24/prepararsi.html"
 ---
 
-![Backpacking](/assets/images/posts/full/backpacking.jpg)
-
-Quando parlo con i miei parenti e la mia ragazza del fatto che investo sul mercato azionario, mi guardano sconcertati e mi chiedono se non rischio di perdere tutto.
+Quando parlo con la gente del fatto che investo sul [mercato azionario](/glossario.html#mercato-azionario){:target="glossario"}, mi guardano sconcertati e mi chiedono se non rischio di perdere tutto.
 
 Al ché spesso mi viene il dubbio e per sicurezza vado a controllare come stanno i miei soldatini. Finora devo dire che andiam bene.
 
 Aveva perso di tanto valore anche i miei investimenti azionari nei giorni cupi di pandemia del Marzo 2020, ma secondo i miei piani ed i miei calcoli mi pareva tutto tranquillo.
 
-Ora voi mi chiedete come faccio a stare così tranquillo con un portfolio che mostra una perdita?
+Ora voi mi chiedete come faccio a stare così tranquillo con un [portafolio](/glossario.html#portfolio){:target="glossario"} che mostra una perdita?
 
 La risposta sta nel come mi sono preparato mentalmente e soprattutto finanziariamente alla mia avventura verso per raggiungere la mia _Vetta Andiambeniana_.
 
@@ -29,6 +27,7 @@ Rifornite lo zaino da montagna e stringete bene le stringhe degli scarponi.
 
 
 ## Prima tappa: _Via dei Mille_ <br><small>– Almeno 1'000.- in un posto sicuro</small>
+
 La nostra prima tappa è a _Via dei Mille_. Alcuni ci arrivano in fretta. Qualcun altro deve prendersi un attimo di più tempo, ma pian piano l'intero gruppo si raduna.
 
 Avete in mente quando si parla dei nonni che preferiscono mettere i propri soldi sotto il materasso che darli ad una banca?
@@ -56,8 +55,8 @@ Rispetto alla _Via dei Mille_, la _Capanna Tre Mesi_ è un vero e proprio impian
 
 È esattamente dove vogliamo arrivare anche con i nostri risparmi prima di avviarci veramente verso l'avventura. Vogliamo assicurarci che in zona delle montagne che vogliamo conquistare, vi è sempre una capanna, nella quale, mal che vadano le cose, possiamo rifugiarci.
 
-Questo rifugio equivale **almeno l'equivalente di 3 mesi di spese su un conto risparmio**.
-
+Questo rifugio equivale **almeno l'equivalente di 3 mesi di spese su un [conto risparmio](/glossario.html#conto-risparmio){:target="glossario"}**.
+<!-- TODO: #conto-risparmio -->
 Se il nostro conto risparmio non raffigura questa cifra, faremo di tutto per assicurarci tappare questo buco.
 
 Gli _andiambeniani_ [sanno quanto spendono](http://andiambene.com/2020/05/24/iniziare.html), [sanno perché ed i trucchi per farlo al meglio](http://andiambene.com/2020/06/24/attivare.html) e quindi sanno ora all'incirca quanto ammontano tre mesi di spese.
@@ -129,7 +128,7 @@ Siamo passati dalle vie delle valli, abbiamo fatto tappa alla capanna, ed abbiam
 
 Strada facendo abbiamo imparato quanto è importante trattare sé stessi e le proprie finanze con rispetto e assicurarci per le eventuali sorprese del futuro.
 
-Una volta che avremo abbastanza [_sostanza andiambeniana_](/glossario.html#sostanza-andiambeniana) da parte, tutta questa sicurezza al 100% è un po' monotona per noi _andiambeniani_. Ci viene quindi naturale cominciare a porre delle domande.
+Una volta che avremo abbastanza [_sostanza andiambeniana_](/glossario.html#sostanza-andiambeniana){:target="glossario"} da parte, tutta questa sicurezza al 100% è un po' monotona per noi _andiambeniani_. Ci viene quindi naturale cominciare a porre delle domande.
 
 Le risposte a queste domande ci porteranno a capire meglio come iniziare a prepararci ed avviarci verso le nostre vette.
 
