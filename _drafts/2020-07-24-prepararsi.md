@@ -2,7 +2,7 @@
 layout: post
 title: "Prepararsi per la vetta"
 subtitle: "Una delle prime cose che dobbiamo fare prima di investire è risparmiare: per la nostra sicurezza finanziaria e quiete mentale"
-date: 2020-06-24 02:00
+date: 2020-07-24
 tags: ["risparmiare"]
 author: Andiambene
 comments: true
