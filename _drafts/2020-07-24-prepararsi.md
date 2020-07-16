@@ -2,6 +2,7 @@
 layout: post
 title: "Prepararsi per la vetta"
 subtitle: "Una delle prime cose che dobbiamo fare prima di investire è risparmiare: per la nostra sicurezza finanziaria e quiete mentale"
+date: 2020-06-24 02:00
 tags: ["risparmiare"]
 author: Andiambene
 comments: true
@@ -10,78 +11,86 @@ img_alt: Backpacking
 url: "http://andiambene.com/2020/07/24/prepararsi.html"
 ---
 
-Quando parlo con la gente del fatto che investo sul [mercato azionario](/glossario.html#mercato-azionario){:target="glossario"}, mi guardano sconcertati e mi chiedono se non rischio di perdere tutto.
+Quando parlo con i miei amici e familiari del fatto che investo sul [mercato azionario](/glossario.html#mercato-azionario){:target="glossario"}, spesso mi guardano sconcertati come se cercassero di capire se sono pazzo e se so quello che sto per fare, spesso seguito con un: "Ma non rischi di perdere tutto?"
 
-Al ché spesso mi viene il dubbio e per sicurezza vado a controllare come stanno i miei soldatini. Finora devo dire che andiam bene.
+Ovviamente mi viene il dubbio, perché c'è sempre qualcosa che non so. Per scaramanzia quindi vado a controllare come stanno i miei soldatini e finora devo dire che andiam bene.
 
-Aveva perso di tanto valore anche i miei investimenti azionari nei giorni cupi di pandemia del Marzo 2020, ma secondo i miei piani ed i miei calcoli mi pareva tutto tranquillo.
+I miei investimenti azionari nei giorni cupi di pandemia del Marzo 2020 avevano perso valore, ma secondo i miei piani ed i miei calcoli mi pareva tutto a posto.
 
-Ora voi mi chiedete come faccio a stare così tranquillo con un [portafolio](/glossario.html#portfolio){:target="glossario"} che mostra una perdita?
+Come faremo a stare così tranquilli con un [portafoglio](/glossario.html#portafoglio){:target="glossario"} in perdita?
 
-La risposta sta nel come mi sono preparato mentalmente e soprattutto finanziariamente alla mia avventura verso per raggiungere la mia _Vetta Andiambeniana_.
+La risposta sta nel come ci prepariamo alla nostra avventura verso le nostre _Vette Andiambeniane_.
 
-Dato che ultimamente tendiamo a viaggiare un po' meno, voglio portarvi per una bella escursione in cui scopriremo ed impariamo a conoscere meglio la fauna e la natura nelle quali gli _andiambeniani_ adorano trascorrere il loro tempo.
+Oggi partiamo quindi per una bella escursione in cui scopriremo ed impariamo a conoscere meglio le faune e l'ambiente nei quali gli _andiambeniani_ adorano trascorrere il loro tempo.
 
-Rifornite lo zaino da montagna e stringete bene le stringhe degli scarponi.
+Alziamo quindi lo zaino sulle spalle e diamo un'ultima stretta agli scarponi: è giunta l'ora di fare un'escursione!
 
 
 ## Prima tappa: _Via dei Mille_ <br><small>– Almeno 1'000.- in un posto sicuro</small>
 
-La nostra prima tappa è a _Via dei Mille_. Alcuni ci arrivano in fretta. Qualcun altro deve prendersi un attimo di più tempo, ma pian piano l'intero gruppo si raduna.
+La nostra prima tappa è a fondovalle in _Via dei Mille_. Alcuni di noi qui ci possono arrivare subito. Qualcun altro invece deve prendersi un attimo di tempo, ma in poco tempo l'intero gruppo si raduna.
 
-Avete in mente quando si parla dei nonni che preferiscono mettere i propri soldi sotto il materasso che darli ad una banca?
+Avete in mente quando si parla dei nonni che preferiscono mettere i propri soldi sotto il materasso che darli in mano ad una banca?
 
-A _Via dei Mille_ onoriamo la tradizione dei nostri nonni. **Andiamo quindi in banca, ci riprendiamo quel bel biglietto di CHF 1'000.- e ce lo portiamo a casa.**
+In _Via dei Mille_ onoriamo la tradizione dei nostri nonni. **Chi se la sente può venire in banca con me. Chi mi segue riprende quel bel biglietto di CHF 1'000.- in contanti per conservarlo in un posto sicuro.**
 
-Quello che succede a _Via dei Mille_, rimane a _Via dei Mille_. Quello che intendo dire qui, è che questo biglietto da mille non si tocca più. Ovviamente, non per forza dobbiamo metterlo sotto il materasso.
+Quello che succede a _Via dei Mille_, rimane a _Via dei Mille_. Quello che intendo dire in questo caso, è che il biglietto da mille non si tocca più. Ovviamente, non per forza dobbiamo metterlo sotto il materasso.
 
-Mettete il vostro primo biglietto da CHF 1'000.- in un quadernetto o una busta, in un posto sicuro. Io l'ho incorniciato e l'ho messo bene in vista nella mia camera da letto. Ogni mattina mi alzo e lo vedo e mi ricordo della fantastica escursione che avevo fatto per arrivare a _Via dei Mille_.
+Mettete il vostro primo biglietto da CHF 1'000.- in un quadernetto o una busta, non importa, basta che sia al sicuro.
 
-Questo 1'000.- non si tocca più a meno che ci rimanga nulla. Non si tocca a meno che abbiamo già venduto ogni nostro mobile in casa. Non lo barattiamo per nessuna cosa finché abbiamo ancora una collezione di francobolli in solaio da scambiare con dei barattoli di fagioli.
+Alcuni, incluso il sottoscritto, lo incorniciano e lo mettono bene in vista nella propria camera da letto. Ogni mattina si alzano e vedendolo si ricordano di quella fantastica escursione che avevano intrapreso per arrivare a _Via dei Mille_.
 
-Questo 1'000.- è quel parente comprensibile che vi ha sempre consolato quando tutto sembrava andare storto. È l'oste che vi ospita per una notte e vi offre un pasto caldo prima di offrire un letto caldo mentre fuori si scatena la tempesta.
+Questo 1'000.- non si tocca più a meno che ci rimanga nulla. Non si tocca a meno che abbiamo già venduto ogni nostro mobile in casa. Non lo barattiamo per nessuna cosa finché abbiamo ancora una collezione di francobolli in solaio da lasciare ad un collezionista per dei barattoli di fagioli.
 
-Una volta che abbiamo fatto amicizia con questo nostro nuovo amico che ci aspetterà sempre a _Via dei Mille_, possiamo fare un po' di rifornimenti nel negozietto del paesino in fondo alla valle nella quale ci ritroviamo e rimetterci il sacco in spalle.
+Questo 1'000.- è quel parente comprensibile che vi ha sempre consolato quando tutto sembrava andare storto. È l'oste che ci ospita per una notte e ci offre un pasto caldo prima di mostrarci dove possiamo dormire per quella notte mentre fuori si scatena la tempesta.
 
-Si riparte e si va alla nostra prossima tappa.
+Una volta fatta amicizia con il nostro piccolo samaritano che ci aspetterà sempre a _Via dei Mille_, con uno spirito risollevato ed una dose di gratitudine siamo quindi pronti per inoltrarci verso la prossima tappa.
 
 
 ## Seconda tappa: _Capanna Tre Mesi_ <br><small>– Almeno 3 mesi di spese su un conto risparmio</small>
 
-L'escursione prosegue! Abbiamo in mente di arrivare in cima alle vette. Strada facendo faremo però una tappa molto importante.
+Abbiamo in mente di arrivare in cima alle vette. Strada facendo faremo però una sosta molto importante.
 
 Rispetto alla _Via dei Mille_, la _Capanna Tre Mesi_ è un vero e proprio impianto che può ospitarci per più tempo. Ha tutto il necessario per offrirci dei pasti caldi e tutto il necessario per almeno tre mesi consecutivi.
 
-È esattamente dove vogliamo arrivare anche con i nostri risparmi prima di avviarci veramente verso l'avventura. Vogliamo assicurarci che in zona delle montagne che vogliamo conquistare, vi è sempre una capanna, nella quale, mal che vadano le cose, possiamo rifugiarci.
+Avete capito bene: _tre mesi._
 
-Questo rifugio equivale **almeno l'equivalente di 3 mesi di spese su un [conto risparmio](/glossario.html#conto-risparmio){:target="glossario"}**.
+È esattamente dove vogliamo arrivare anche con i nostri risparmi prima di avviarci verso l'avventura delle vette.
+
+Vogliamo assicurarci che in zona delle montagne che vogliamo conquistare, vi è sempre una capanna nella quale, mal che vadano le cose, possiamo rifugiarci.
+
+Questo rifugio equivale ad **almeno l'equivalente di 3 mesi di spese su un [conto risparmio](/glossario.html#conto-risparmio){:target="glossario"}**.
 
 Se il nostro conto risparmio non raffigura questa cifra, faremo di tutto per assicurarci tappare questo buco.
 
-Gli _andiambeniani_ [sanno quanto spendono](http://andiambene.com/2020/05/24/iniziare.html), [sanno perché ed i trucchi per farlo al meglio](http://andiambene.com/2020/06/24/attivare.html) e quindi sanno ora all'incirca quanto ammontano tre mesi di spese.
+Gli _andiambeniani_ [sanno quanto spendono](http://andiambene.com/2020/05/24/iniziare.html){:target="iniziare"}, [sanno perché ed i trucchi per farlo al meglio](http://andiambene.com/2020/06/24/attivare.html){:target="attivare"} e quindi sanno ora all'incirca quanto ammontano tre mesi di spese. (In caso di dubbi, gli astuti _andiameniani_ in questo caso arrotondano beatamente verso l'alto.)
 
 Se notiamo che al mese spendiamo attorno ai CHF 2'500.- accumuliamo almeno CHF 7'500.- nel fienile prima di proseguire con la nostra escursione.
 
-Anche se i nonni non saranno d'accordo, questa volta diamo retta a quel vecchio banchiere in _Mary Poppins_, il [_Signor Dawes Padre_](https://youtu.be/wg5G1yYb9VA), e lasciamo questi soldi in banca su un conto risparmio.
+Anche se i nonni non saranno d'accordo al 100%, questa volta diamo retta ad un anziano che la vede diversamente: il vecchio banchiere in _Mary Poppins_, il [_Signor Dawes Padre_](https://youtu.be/wg5G1yYb9VA){:target="youtube"}. Lasciamo questi soldi con la banca su un conto risparmio. (Non li investiamo ancora, come dice il _Signor Dawes Padre_, ma perlomeno ora li lasciamo nelle sue casseforti.)
 
-Possibilmente noi ne scegliamo uno con un buon interesse o semplicemente l'opzione con l'interesse più alto presso la banca dove ci troviamo al momento. Nonostante le opzioni siano molte, la maggior parte dei conti risparmio in svizzera si aggirano attorno ai massimi di ca. 0.2% annui (salvo qualche promozione periodica).
+Possibilmente noi vogliamo una soluzione semplice e scegliamo un conto risparmio uno con un buon [tasso d'interesse](/glossario.html#tasso-d-interesse){:target="glossario"}. Nonostante le opzioni siano molte, la maggior parte dei conti risparmio in svizzera, salvo qualche promozione periodica e per studenti fino ai 25 anni, si aggirano attorno ai massimi di ca. 0.2% annui.
 
-Una volta che sappiamo che la capanna è sistemata, serriamo le finestre e chiudiamo bene a chiave tutte le porte e teniamo la chiave in un taschino al sicuro.
+Una volta che sappiamo che la capanna è sistemata, serriamo le saracinesche finestre e chiudiamo a chiave tutte le porte. Teniamo la chiave quindi in un taschino sicuro, ma sappiamo di usarlo soltanto è quando è veramente necessario.
 
-Non ci resta quindi che riempire la borraccia di acqua fresca presso la fontana, salutare il gregge di mucche e avviarci per i sentieri in direzione di queste curiose vette.
+Riempiamo la borraccia di acqua fresca dalla fontana e avviamoci per i sentieri in direzione di queste curiose vette.
 
-Una volta che decidiamo di avviarci verso questi sentieri, noteremo dei cambiamenti attorno a noi. Sembra tutto più quieto e tranquillo. La paura di non arrivare a fine mese o non essere preparati ad imprevisti, comincia a svanire. Notiamo anche però, che i sentieri che sorpassano la capanna sono quelli meno calpestati dalla massa di turisti che spesso si fermano in valle.
+Una volta che decidiamo di avviarci verso questi sentieri, noteremo dei cambiamenti attorno a noi. Sembra tutto più tranquillo e silenzioso. Lo stress se ne va come anche la paura di non arrivare a fine mese o non essere preparati ad imprevisti. Questi ad ogni passo cominciano ad essere pensieri che cominciano a svanire o perlomeno confondersi con i rumori di sottofondo della natura generosa di opportunità che ci circonda.
 
-Non temere caro avventuriero. Ricordatevi che siamo qui per andar bene e siamo qui insieme.
+Notiamo anche però, che i sentieri che superano la capanna sono quelli meno calpestati dalla massa di turisti che spesso si fermano in valle. Ci sentiamo quindi un po' soli su questo sentiero?
+
+Non temete cari avventurieri. Ricordatevi che siamo qui per andar bene e siamo qui insieme.
+
+"Ma dove stiamo andando esattamente?" mi chiederete. Lo scopriremo appena arriviamo alla prossima sosta.
 
 
 ## Terza tappa: _Passo del Mercante_<br><small>– Pianificare ed avviare i nostri investimenti</small>
 
 Nella quiete della natura passiamo tra boschi di conifere e laghetti alpini con i loro ruscelli di acqua cristallina.
 
-Strada facendo cominciamo a notare quello che ci circonda. A volte ci fermiamo e proviamo a capire meglio, parlandone anche con chi ci accompagna. È un pino o un abete quello? Qual'è la differenza tra quei due tipi di piante? Cos'hanno in comune invece? Quale di questi sentieri ci porta prima alla cima?
+Strada facendo cominciamo a notare quello che ci circonda. A volte ci fermiamo e proviamo a capire meglio, parlandone anche con chi ci accompagna. È un pino o un abete quello? Qual'è la differenza? Cos'hanno in comune invece e perché li confondo sempre? Quale di questi sentieri ci porta prima alla cima?
 
-Una cosa simile succede quando vogliamo cominciare a fare qualcosa in più con i nostri risparmi. Cominciamo a chiederci cose come: **cosa vuol dire investire? Cos'è questo _portfolio_ di cui continua a parlare _Andiambene_? In cosa si può investire? Su cosa devo guardare particolarmente quando desidero investire? Come si inizia?**
+Una cosa simile succede quando vogliamo cominciare a fare qualcosa in più con i nostri risparmi. Cominciamo a chiederci cose come: **cosa vuol dire investire? Cos'è questo _portafoglio_ di cui parlano gli altri _andiambeniani_? In cosa si può investire? Su cosa devo guardare particolarmente quando desidero investire? Come si inizia?**
 
 Questi sentieri sono dove voglio portare tutte le _andiambeniane_ e gli _andiambeniani_ con questo tipo di domande.
 
@@ -91,18 +100,22 @@ Queste sono le domande sulle quali ci scambieremo ed un passo dopo l'altro trove
 
 Rinforzati quindi con il sostegno dei nostri compagni di viaggio, una volta che avremo le risposte, cominceremo a **pianificare** ed **investire**.
 
+Faremo esattamente quello che abbiamo scoperto che si fà quando ci si trova allo [_Scenario 3_](/2020/06/24/attivare.html#scenario-3-crescita-e-indipendenza-finanziaria--il-risultato-di-tempo-e-dedizione){:target="attivare"} nell'_attivare il flusso monetario_.
+
 Scopriremo in futuro quali passi concreti possiamo intraprendere per far sì che questo possa diventare la nostra realtà.
+
+Per ora ci assicuriamo che le prime tappe siano state coperte e che cominciamo a farci le domande più interessanti riguardanti ai nostri potenziali [attivi](/glossario.html#attivo){:target="glossario"}.
 
 Per ora immaginiamoci che ce l'abbiamo fatta a rispondere le domande fondamentali e sappiamo come proseguire se ne avremo altre in futuro. Siamo quindi arrivati al _Passo del Mercante_.
 
-Ci fermiamo, molliamo lo zaino, prendiamo un bel sospiro profondo ed un sorso di acqua della sorgente dalla nostra borraccia.
+Ci fermiamo, molliamo lo zaino nello spiazzo di erba soffice, prendiamo un bel sospiro profondo ed un sorso di acqua della sorgente dalla nostra borraccia.
 
 È giunta l'ora di accamparsi per la notte.
 
 Qualcuno prepara il fuoco e qualcun altro monta la tenda. Intanto io vado a riempire di nuovo le borracce che domattina ci alziamo presto e ciascuno di noi potrà scegliere la sua vetta.
 
 
-## Quarta tappa: _Vetta Andiambeniana_<br><small>– Raggiungere i nostri obiettivi finanziari</small>
+## Quarta tappa: _Vette Andiambeniane_<br><small>– Raggiungere i nostri obiettivi finanziari</small>
 
 La quiete della notte ci ha dato la ricarica per ripartire freschi. Durante la notte abbiamo sognato di vivere una vita in cui tutte le decisioni precedenti ci hanno portato in cima alla nostra vetta personale di una vita finanziaria in sintonia con il nostro stile di vita.
 
@@ -110,7 +123,7 @@ Pieni di ispirazione e con una nuova carica, usciamo dal nostro sacco a pelo e c
 
 Di fronte a noi vediamo tante vette.
 
-**La _Vetta Andiambeniana_ è molto personale ed è definita dai nostri caratteri, bisogni e motivazioni individuali.**
+**Le _Vette Andiambeniane_ sono molto personali ed definite dai nostri caratteri, bisogni e motivazioni individuali.**
 
 La tua vetta la puoi definire come vuoi. Sta però a te ricaricarti con una buona colazione ed assicurarti che avrai il necessario per raggiungerla.
 
@@ -144,8 +157,8 @@ Dove vi trovate cari avventurieri?
 1. Siete già stati in _Via dei Mille_?
 2. Avete già assicurato i rifornimenti necessari nella _Capanna Tre Mesi_?
 3. Vi siete già avviati al _Passo del Mercante_?
-4. Se per caso hai già raggiunto la tua _Vetta Andiambeniana_, ti prego di mettitti in contatto con me! Sono curioso di sapere la tua storia.
+4. Se per caso hai già raggiunto le tue _Vette Andiambeniane_, ti prego di mettitti in contatto con me! Sono curioso di sapere la tua storia.
 
-Io mi trovo sulle vie del _Passo del Mercante_ e sto imparando sempre di più su come posso migliorare ed accelerare il mio cammino verso la mia _Vetta Andiambeniana_, la quale la sto ancora definendo.
+Io mi trovo sulle vie del _Passo del Mercante_ e sto imparando sempre di più su come posso migliorare ed accelerare il mio cammino verso la mie _Vette Andiambeniane_.
 
 Nonostante la mia posizione geografica attuale, sono sempre contento di poter dare una mano a qualsiasi persona che si trova ad un altra altitudine dei sentiri. Commentate pure o mettetevi in contatto con me se desiderate scambiarvi su alcune tematiche.
