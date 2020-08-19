@@ -25,10 +25,18 @@ Dal fr. bougette ‘bolgetta’, rientrato in Francia come budget col sign. fina
 ## C
 
 ### Conto risparmio
-Da [wikipedia]():
+Da [wikipedia](https://it.wikipedia.org/wiki/Deposito_a_risparmio){:target="wikipedia"}:
 > Il **deposito a risparmio** [o conto risparmio, NdR] è la forma più tradizionale di raccolta del risparmio da parte degli Istituti di credito. Destinato essenzialmente al privato cittadino, il deposito a risparmio viene utilizzato soprattutto come destinazione temporanea del denaro, onde evitare la custodia personale di somme anche consistenti in contanti, in attesa di un utilizzo dello stesso, sia per le necessità quotidiane che per eventuali investimenti in forme diverse più redditizie.
 
 Gli _andiameniani_ tengono almeno 3 mesi ti spese in un conto risparmio. Per trovare le offerte migliori, andiamo su moneyland.ch per un paragone delle offerte (attualmente disponibile in [inglese](https://www.moneyland.ch/en/savingsAccount/index){:target="_blank"}, [francese](https://www.moneyland.ch/fr/savingsAccount/index){:target="_blank"} e [tedesco](https://www.moneyland.ch/de/savingsAccount/index){:target="_blank"}).<span data-stop="_"><span>
+
+## E
+
+### ETF
+Da [wikipedia](https://it.wikipedia.org/wiki/Exchange-traded_fund){:target="wikipedia"}:
+> Gli **exchange-traded fund** (noti con la sigla **ETF**) sono un tipo di fondi d'investimento appartenenti agli ETP (Exchange Traded Products), ovvero alla macro famiglia di prodotti a indice quotati, aventi il fine di replicare un indice di riferimento (benchmark) con interventi minimi. Diversamente dai fondi comuni d'investimento e dalle SICAV, hanno gestione passiva - economici e svincolati dall'abilità del gestore - e sono quotati in borsa con le stesse modalità di azioni ed obbligazioni.
+
+In termini _andiameniani_ l'ETF è un ottimo strumento per partecipare sul mercato azionario attraverso l'investimento in ETF indicizzati di gestione passiva. Ad esempio possiamo così investire in un ETF che replica un indice diversificato come il [_MSCI World_](https://it.wikipedia.org/wiki/MSCI_World){:target="wikipedia"}. I vantaggi degli ETF in questi casi stanno nella loro diversificazione ed i costi ridotti.
 
 ## F
 
