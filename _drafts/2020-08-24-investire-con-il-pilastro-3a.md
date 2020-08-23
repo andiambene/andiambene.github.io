@@ -16,6 +16,7 @@ url: "https://andiambene.com/2020/08/24/investire-con-il-pilastro-3a.html"
 In Svizzera siamo fortunati di avere uno strumento a nostra disposizione nel quale possiamo cominciare ad esercitarsi a diventare degli investitori. Questi sono il terzo pilastro e, nel nostro esempio, un conto terzo pilastro che ci permette di investire sul mercato azionario in modo efficiente, comodo, automatizzato ed in totale trasparenza con VIAC.
 
 I passi per diventare un investitore in questo esempio, sono i seguenti:
+
 1. [Aprire il giusto conto 3a/terzo pilastro](#aprire-il-giusto-conto-3a)
 2. [Automatizzare il capitale](#automatizzare-il-capitale)
 3. [Pensare a lungo termine](#pensare-a-lungo-termine)
@@ -23,6 +24,7 @@ I passi per diventare un investitore in questo esempio, sono i seguenti:
 I prerequisiti per cominciare li abbiamo visti nell'articolo del mese scorso: [_Prepararsi per la vetta_](/2020/07/24/prepararsi.html){:target="andiambene"}.
 
 Ricapitolando i pre-requisiti prima di iniziare ad investire con tranquillità sono:
+
 - CHF 1'000.– (in contanti) da parte
 - L'equivalente di almeno 3 mesi di spese su un conto risparmio
 
@@ -264,7 +266,9 @@ Ricordiamoci però, che se i guadagno del nostro portafoglio riporta cifre rosse
 
 Per rinforzarsi, anche la seguente citazione ci sarà amica, soprattutto quando le cose si fanno un po' più dure. È esattamente nei momenti di crisi che gli investitori più astuti fanno più soldi:
 
-> Basta avere paura quando gli altri sono avidi ed essere avidi quando gli altri hanno paura. [[5](#fonte5)]
+> "Basta avere paura quando gli altri sono avidi ed essere avidi quando gli altri hanno paura."
+> <br> —  Warren Buffett [[5](#fonte5)]
+
 
 ## Conclusione
 
@@ -290,6 +294,7 @@ Benvenuti tra gli investitori svizzeri!
 ___
 
 **Note**
+
 - <span id="nota-a">[a]</span> Al momento della stesura di questo articolo, _Andiambene_ non ha alcuna affiliazione e/o collaborazione con VIAC. Il prodotto è quindi proposto in modo completamente indipendente e gli autori non hanno alcuna partecipazione al guadagno di VIAC oltre a quelli generati attraverso l'utilizzo privato dei prodotti offerti da VIAC.
 
 **Fonti**
