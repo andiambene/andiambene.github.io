@@ -104,13 +104,13 @@ Una volta che sappiamo di voler iniziare con un conto d'investimento presso una 
 
 Assicuratevi che la vostra opzione abbia dei costi bassi e che gli investimenti non vanno in fondi gestiti attivamente.
 
-Il fatto di non avere fondi gestiti attivamente non ha nulla a che fare con l’avere degli [_attivi_](/glossario.html#attivo){:target="glossario"}. In questo caso investire in fondi/ETF passivi è il migliore _“attivo”_ che possiamo ottenere. Quando si parla della _gestione_ dei fondi, quelli devono essere _gestiti_ in modo passivo. Questo sta a significare che non vogliamo dover pagare dei manager per gestire il nostro patrimonio in modo attivo, dovendo quindi pagare loro una tassa indipendentemente dalla performance dell’investimento che di per sé è già un _attivo_.
+Il fatto di non avere fondi gestiti attivamente non ha nulla a che fare con l’avere degli [_attivi_](/glossario.html#attivo){:target="glossario"}. In questo caso investire in fondi/ETF passivi è il migliore _"attivo"_ che possiamo ottenere. Quando si parla della _gestione_ dei fondi, quelli devono essere _gestiti_ in modo passivo. Questo sta a significare che non vogliamo dover pagare dei manager per gestire il nostro patrimonio in modo attivo, dovendo quindi pagare loro una tassa indipendentemente dalla performance dell’investimento che di per sé è già un _attivo_.
 
 In altre parole:
-1. Assicurarsi che il conto di investimento abbia una tassa di gestione non più elevata dell'1%. La media nell'industria è attorno all'1.24%, ma gli _andiambeniani_ non si accontenta, perché sa che sono questi i numeri che fanno la differenza nel tempo per via del magico interesse composto.
+1. Assicurarsi che il conto di investimento abbia una tassa di gestione non più elevata dell'1%. La media nell'industria è attorno all'1.24%, ma gli _andiambeniani_ non si accontenta, perché sa che sono questi i numeri che fanno la differenza nel tempo per via del magico [interesse composto](#interesse-composto){:target="glossario"}.
 2. Assicurarsi che il conto d'investimento adotti una strategia passiva. Quindi:
 	1. punti di riferimenti positivi sono termini come "fondi indicizzati", "index", "fondo passivo", ecc.
-	2. stare alla larga da termini come "gestito da esperti", "gestito professionalmente", “management attivo” ecc.
+	2. stare alla larga da termini come "gestito da esperti", "gestito professionalmente", "management attivo" ecc.
 3. Assicurarsi di distribuire i soldi su più conti. In questo modo possiamo prelevare i soldi in modo scaglionato evitando di ridurre i costi legati alla tassazione progressiva (vedi articolo su viac.ch: [_Perché un prelievo scaglionato nel pilastro 3a?_](https://viac.ch/it/academy/perche-un-prelievo-scaglionato-nel-pilastro-3a/){:target="_blank"}).
 
 NB: il termine "fondo (d'investimento)" è neutrale. È importante fare caso al contesto e stare attenti alle parole elencate sopra.
@@ -281,5 +281,5 @@ ___
 - <span id="fonte3">[3]</span> [Säule 3a – Bank oder Versicherung?
 ](https://www.123-pensionierung.ch/de/saeule-3a/bank-versicherung){:target="_blank"}<br>123-pensionierung.ch, 2020-08-19
 - <span id="fonte4">[4]</span> [La regola numbero uno negli investimenti](https://www.investiresereni.com/2018/09/02/la-regola-numero-uno-negli-investimenti/){:target="_blank"}<br>investiresereni.com, 2020-08-23
-- <span id="fonte5">[5]</span> [„Basta avere paura quando gli altri sono avidi ed essere avidi quando gli altri hanno paura.“](https://le-citazioni.it/frasi/156508-warren-buffett-basta-avere-paura-quando-gli-altri-sono-avidi-ed-e/){:target="_blank"}<br>le-citazioni.it, 2020-08-23
+- <span id="fonte5">[5]</span> [„Basta avere paura quando gli altri sono avidi ed essere avidi quando gli altri hanno paura."](https://le-citazioni.it/frasi/156508-warren-buffett-basta-avere-paura-quando-gli-altri-sono-avidi-ed-e/){:target="_blank"}<br>le-citazioni.it, 2020-08-23
 - <span id="fonte6">[6]</span> [Regola N°1: Credi nella forza dell’interesse composto (anche se non hai molti soldi da investire)](https://www.risparmiamocelo.it/regola-n1-credi-nella-forza-dellinteresse-composto-anche-se-non-hai-molti-soldi-da-investire/){:target="_blank"}<br>risparmiamocelo.it, 2020-08-19
