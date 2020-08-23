@@ -168,7 +168,7 @@ Per capire quanto accumula Andy nello stesso arco di tempo, possiamo usare [ques
 
 ![Andy Ambene è milionario!](/assets/images/posts/content/2020/08/24/andy-millionario.png)
 
-CHF 6'826.- investiti all'interesse composto del 7.2% in 35 anni, corrispondono: **`CHF 1'056'735.13`**
+CHF 6'826.- investiti all'interesse composto del 7.2% in 35 anni, corrispondono: **CHF 1'056'735.13**
 
 Mentre Andy festeggia il suo pensionamento come milionario, Bruno rimane totalmente sconcertato.
 
@@ -200,7 +200,7 @@ Si consiglia però di fare un ordine permanente. Vediamo però quando e con qual
 
 È consigliato iniziare da subito. Come visto nell'esempio sopra, dove la differenza tra il capitale accumulato da Alice rispetto ad Andy. Alice ha accumulato il doppio di Andy, esponendosi al mercato azionario 10 anni in più dei 35 di Andy.
 
-Quindi è meglio entrare sul mercato ed investire da subito invece che aspettare in modo speculativo un momento migliore (ad esempio quando gli ETF scendono di valore).
+Quindi è meglio cominciare ad informarsi ed istruirsi per investire da subito invece che aspettare in modo speculativo un momento migliore (ad esempio quando gli ETF scendono di valore).
 
 ### Con quale frequenza dobbiamo investire?
 
