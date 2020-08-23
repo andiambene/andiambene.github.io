@@ -8,7 +8,7 @@ author: Andiambene
 comments: true
 img_src: orto.jpg
 img_alt: Orto
-url: "http://andiambene.com/2020/08/24/investire-con-il-terzo-pilastro.html"
+url: "http://andiambene.com/2020/08/24/investire-con-il-pilastro-3a.html"
 ---
 
 **Quale potrebbe essere un modo pratico e comodo per diventare degli investitori in Svizzera?**
