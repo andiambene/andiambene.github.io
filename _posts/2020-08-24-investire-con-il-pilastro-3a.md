@@ -13,7 +13,7 @@ url: "https://andiambene.com/2020/08/24/investire-con-il-pilastro-3a.html"
 
 **Quale potrebbe essere un modo pratico e comodo per diventare degli investitori in Svizzera?**
 
-In Svizzera siamo fortunati ad avere uno strumento a nostra disposizione con il quale possiamo cominciare ad essere degli investitori: il [terzo pilastro](/glossario.html#terzo-pilastro){:target=”glossario”}. Un conto terzo pilastro ci permette di investire sul mercato azionario in modo efficiente, comodo, automatizzato ed in totale trasparenza con VIAC.
+In Svizzera siamo fortunati ad avere uno strumento a nostra disposizione con il quale possiamo cominciare ad essere degli investitori: il [terzo pilastro](/glossario.html#terzo-pilastro){:target="glossario"}. Un conto terzo pilastro ci permette di investire sul mercato azionario in modo efficiente, comodo, automatizzato ed in totale trasparenza con VIAC.
 
 I passi per diventare un investitore con VIAC sono i seguenti:
 
