@@ -46,8 +46,6 @@ Se non per diventare completamente liberi da questo sistema, perlomeno possiamo 
 
 Infatti un _andiambeniano_ è un investitore perché crede profondamente che il tempo è irrecuperabile (mentre i soldi lo sono) e agisce per affrontare questo dilemma.
 
-Fortunatamente in Svizzera abbiamo a disposizione degli strumenti accessibili per investire parte del nostro stipendio a lungo termine per un ottimo prezzo. Questo strumento si chiama _Pilastro 3a_.
-
 ## 1. Aprire il giusto conto 3a / terzo pilastro
 
 Alcuni già ce l'hanno e sanno esattamente come funziona. Alcuni l'hanno magari aperto con un consulente che li ha convinti che sia un'ottima cosa farlo. Alcuni ne hanno sentito parlare, ma proprio non hanno idea di che beneficio possa possibilmente portarci. Alcuni ancora hanno zero idea.
