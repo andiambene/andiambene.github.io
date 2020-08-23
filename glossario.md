@@ -67,6 +67,14 @@ Da [wikipedia](https://it.wikipedia.org/wiki/Mercato_azionario){:target="fonte"}
 ### Passivi
 L'insieme dei beni a nostro nome o in nostro possesso che nel tempo perdono valore oppure ci costano soldi.
 
+### Pilastro 3a
+Da [ch.ch](){:target="_blank"}:
+> Previdenza per la vecchiaia: oltre all'AVS (primo pilastro) e alla previdenza professionale (secondo pilastro), esiste la previdenza privata (terzo pilastro), che promuove il risparmio personale per la vecchiaia.
+
+Nella previdenza per la vecchiaia, il Pilastro 3a costituisce un contributo opzionale e complementare alle già due esistenti contributi (AVS e previdenza professionale, ovvero primo e secondo pilastro rispettivamente).
+
+Nonostante il terzo pilastro / Pilastro 3a sia opzionale, offre diversi vantaggi. Tra questi abbiamo il fatto che i contributi sono deducibili dal reddito imponibile e che il capitale versato lo si può investire sul mercato azionario, se si utilizza un conto terzo pilastro che ce lo permette di farlo. Tra questi abbiamo VIAC e spesso altri prodotti offerti da diverse banche svizzere.
+
 ### Portafoglio
 Da [wikipedia](https://it.wikipedia.org/wiki/Portafoglio_(finanza)){:target="fonte"}:
 > "Un **portafoglio** (in lingua inglese **portfolio**), nella finanza, è un insieme di attività finanziarie, appartenenti a persone fisiche o giuridiche, in seguito ad un investimento."
@@ -83,6 +91,9 @@ _Sostanza Andiambeniana_ = _Cash_ e patrimonio netto al quale abbiamo accesso �
 ### Tasso di interesse
 Da [feduf.it](http://www.feduf.it/container/scuole/cose-il-tasso-di-interesse){:target="fonte"} (Fondazione per l'Educazione Finanziaria e del Risparmio):
 > "L'interesse in economia finanziaria è la somma dovuta come compenso per ottenere una somma di denaro in prestito per un certo periodo. Il tasso di interesse è il costo del denaro, ossia la percentuale dell'interesse su un prestito e la somma che riceve chi ha prestato il denaro.""
+
+### Terzo Pilastro
+Vedi [Pilastro 3a](#pilastro-3a).
 
 ### Titolo azionario
 Da [wikipedia](https://it.wikipedia.org/wiki/Titolo_(finanza)){:target="fonte"}:

@@ -13,7 +13,7 @@ url: "https://andiambene.com/2020/08/24/investire-con-il-pilastro-3a.html"
 
 **Quale potrebbe essere un modo pratico e comodo per diventare degli investitori in Svizzera?**
 
-In Svizzera siamo fortunati ad avere uno strumento a nostra disposizione con il quale possiamo cominciare ad essere degli investitori: il terzo pilastro. Un conto terzo pilastro ci permette di investire sul mercato azionario in modo efficiente, comodo, automatizzato ed in totale trasparenza con VIAC.
+In Svizzera siamo fortunati ad avere uno strumento a nostra disposizione con il quale possiamo cominciare ad essere degli investitori: il [terzo pilastro](/glossario.html#terzo-pilastro){:target=”glossario”}. Un conto terzo pilastro ci permette di investire sul mercato azionario in modo efficiente, comodo, automatizzato ed in totale trasparenza con VIAC.
 
 I passi per diventare un investitore con VIAC sono i seguenti:
 
@@ -50,7 +50,7 @@ Infatti un _andiambeniano_ è un investitore perché crede profondamente che il 
 
 Alcuni già ce l'hanno e sanno esattamente come funziona. Alcuni l'hanno magari aperto con un consulente che li ha convinti che sia un'ottima cosa farlo. Alcuni ne hanno sentito parlare, ma proprio non hanno idea di che beneficio possa possibilmente portarci. Alcuni ancora hanno zero idea.
 
-Spesso il terzo pilastro viene definito come segue (fonte: [ch.ch](https://www.ch.ch/it/terzo-pilastro/)):
+Il terzo pilastro viene definito ufficialmente come segue (fonte: [ch.ch](https://www.ch.ch/it/terzo-pilastro/)):
 
 > **Pilastro 3a - Previdenza privata per la vecchiaia**
 >
@@ -81,14 +81,14 @@ Tante banche e assicurazioni in Svizzera hanno un'opzione di pilastro 3a. Molto 
 
 _Andiambene_ consiglia di iniziare ad investire con una banca.
 
-**_Che differenza c’è tra un conto 3a presso una banca ed un assicurazione?_**
+**_Come mai non è consigliato investire con un’assicurazione?_**
 
 Il problema del pilastro 3a con l'assicurazione è che solitamente viene stipulato un contratto che ci lega fino al prelievo di esso. In sostanza, con un'assicurazione siamo costretti a pagare la somma stabilita oggi anche tra 20 anni, quando nemmeno sapremo che lavoro faremo, figuriamoci in che situazione finanziaria ci troveremo.
 
 Per avere una panoramica generale sui maggiori vantaggi per un pilastro 3a presso una banca ed un'assicurazione, consiglio di dare un'occhiata alla [tabella pubblicata su comparis.ch](https://it.comparis.ch/saeule-3a/info/versicherungen-vs-banken){:target="comparis"}.
 
-Notiamo che la banca, rispetto all’assicurazione, offre più flessibilità: possiamo aprire un conto e pagare quanto e quando vogliamo (entro il limite annuale consentito).
-#### Scegliamo un conto d'investimento
+La banca, rispetto all’assicurazione, offre più flessibilità: possiamo aprire un conto e pagare quanto e quando vogliamo (entro il limite annuale consentito).
+#### Scegliamo un conto d'investimento presso una banca
 
 **Quali opzioni abbiamo presso una banca?**
 
@@ -104,13 +104,13 @@ Una volta che sappiamo di voler iniziare con un conto d'investimento presso una 
 
 Assicuratevi che la vostra opzione abbia dei costi bassi e che gli investimenti non vanno in fondi gestiti attivamente.
 
-Il fatto di non avere fondi attivamente non ha nulla a che fare con l’avere degli [_attivi_](/glossario.html#attivo){:target="glossario"}. In questo caso investire in fondi/ETF passivi è il migliore _“attivo”_ che possiamo ottenere. Quando si parla della _gestione_ dei fondi, quelli devono essere passivi. Questo sta a significare che non vogliamo dover pagare dei manager per gestire il nostro patrimonio in modo attivo, dovendo quindi pagare loro una tassa indipendentemente dalla performance dell’investimento.
+Il fatto di non avere fondi gestiti attivamente non ha nulla a che fare con l’avere degli [_attivi_](/glossario.html#attivo){:target="glossario"}. In questo caso investire in fondi/ETF passivi è il migliore _“attivo”_ che possiamo ottenere. Quando si parla della _gestione_ dei fondi, quelli devono essere _gestiti_ in modo passivo. Questo sta a significare che non vogliamo dover pagare dei manager per gestire il nostro patrimonio in modo attivo, dovendo quindi pagare loro una tassa indipendentemente dalla performance dell’investimento che di per sé è già un _attivo_.
 
 In altre parole:
 1. Assicurarsi che il conto di investimento abbia una tassa di gestione non più elevata dell'1%. La media nell'industria è attorno all'1.24%, ma gli _andiambeniani_ non si accontenta, perché sa che sono questi i numeri che fanno la differenza nel tempo per via del magico interesse composto.
 2. Assicurarsi che il conto d'investimento adotti una strategia passiva. Quindi:
 	1. punti di riferimenti positivi sono termini come "fondi indicizzati", "index", "fondo passivo", ecc.
-	2. stare alla larga da termini come "gestito da esperti", "gestito professionalmente", "fondo attivo", ecc.
+	2. stare alla larga da termini come "gestito da esperti", "gestito professionalmente", “management attivo” ecc.
 3. Assicurarsi di distribuire i soldi su più conti. In questo modo possiamo prelevare i soldi in modo scaglionato evitando di ridurre i costi legati alla tassazione progressiva (vedi articolo su viac.ch: [_Perché un prelievo scaglionato nel pilastro 3a?_](https://viac.ch/it/academy/perche-un-prelievo-scaglionato-nel-pilastro-3a/){:target="_blank"}).
 
 NB: il termine "fondo (d'investimento)" è neutrale. È importante fare caso al contesto e stare attenti alle parole elencate sopra.
@@ -151,7 +151,7 @@ Vediamo cosa questo potrebbe voler dire in pratica.
 Basiamo questo esempio sulla strategia _Global 80_ di VIAC.
 
 - **Tasso d'interesse: 7.2%**, che corrisponde al tasso medio annualizzato di _Global 80_ sugli ultimi 10 anni.
-- **Capitale: CHF 6'826.-** che attualmente corrispondono al versamento massimo di contributi al pilastro 3a in veste da dipendente.
+- **Capitale: CHF 6'826.-** che attualmente corrispondono al versamento massimo di contributi annuali al pilastro 3a in veste da dipendente.
 - **Tempo: 35 anni** che corrisponde alla quantità di anni tra i 30 ed il pensionamento ai 65.
 
 Ora immaginiamoci due personaggi: Bruno Rossi e Andy Ambene. Entrambi hanno 30 anni e decidono di aprire un conto per il terzo pilastro.
