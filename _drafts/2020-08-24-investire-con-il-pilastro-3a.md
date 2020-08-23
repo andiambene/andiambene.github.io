@@ -23,12 +23,12 @@ I passi per diventare un investitore in questo esempio, sono i seguenti:
 
 I prerequisiti per cominciare li abbiamo visti nell'articolo del mese scorso: [_Prepararsi per la vetta_](/2020/07/24/prepararsi.html){:target="andiambene"}.
 
-Ricapitolando i pre-requisiti prima di iniziare ad investire con tranquillità sono:
+Ricapitolando i prerequisiti prima di iniziare ad investire con tranquillità sono:
 
 - CHF 1'000.– (in contanti) da parte
 - L'equivalente di almeno 3 mesi di spese su un conto risparmio
 
-## Perché dovremmo diventare degli investitori?
+## Perché dovremmo diventare dei buoni investitori?
 
 > <div style="font-weight:bold;font-size:3rem;">⏱️ > 💰</div>
 
@@ -247,6 +247,7 @@ Con decisione finanziaria è inteso qualsiasi acquisto, investimento, abbonament
 Ci sono diverse domande che possiamo porci per iniziare a pensare a lungo termine con le proprie decisioni finanziarie.
 
 Tra queste possiamo proporre le seguenti tra le tante:
+
 - La decisione finanziaria può avere un impatto positivo a lungo termine sulle mie finanze?
 - Capiamo con cosa abbiamo a che fare?
 - È una decisione che può implicare un versamento consistente e ripetuto nel tempo e che può risultare in un guadagno a nostro favore?
