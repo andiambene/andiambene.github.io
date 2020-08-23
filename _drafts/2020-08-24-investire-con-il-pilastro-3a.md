@@ -282,8 +282,8 @@ Ci sono tanti titoli e troverete di certo spesso alcuni in particolare che fanno
 
 Per esempio, tra i libri che hanno aiutato ad ispirare l'investitore nel pensiero _andiambeniano_, ci sono i seguenti:
 - ["Padre ricco padre povero."](https://amzn.to/3hn12T3){:target="_blank"} di Robert T. Kiyosaki
-- ["Soldi. Domina il gioco: Sette semplici passi per la libertà finanziaria"](https://amzn.to/3hteBAM) di Anthony "Tony" Robbins
-- ["I Will Teach You to Be Rich"](https://amzn.to/3aOww29) di Ramit Sethi
+- ["Soldi. Domina il gioco: Sette semplici passi per la libertà finanziaria"](https://amzn.to/3hteBAM){:target="_blank"} di Anthony "Tony" Robbins
+- ["I Will Teach You to Be Rich"](https://amzn.to/3aOww29){:target="_blank"} di Ramit Sethi
 
 Benvenuti tra gli investitori svizzeri!
 
