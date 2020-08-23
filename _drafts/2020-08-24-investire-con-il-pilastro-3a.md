@@ -110,7 +110,7 @@ Una volta che sappiamo di voler iniziare con un conto d'investimento presso una 
 A grosso modo, assicuratevi che la vostra opzione abbia dei costi bassi e che gli investimenti non vanno in fondi gestiti attivamente.
 
 La versione corta di questo, è:
-1. Assicurarsi che il conto di investimento abbia una tassa di gestione non più elevata dell'1%. La media nell'industria è attorno all'1.24%, ma gli _andiameniani_ non si accontenta, perché sa che sono questi i numeri che fanno la differenze nel tempo per via del magico interesse composto.
+1. Assicurarsi che il conto di investimento abbia una tassa di gestione non più elevata dell'1%. La media nell'industria è attorno all'1.24%, ma gli _andiambeniani_ non si accontenta, perché sa che sono questi i numeri che fanno la differenze nel tempo per via del magico interesse composto.
 2. Assicurarsi che il conto d'investimento adotti una strategia passiva. Quindi:
 	1. punti di riferimenti positivi sono termini come "fondi indicizzati", "index", "fondo passivo", ecc.
 	2. stare alla larga quando vengono usati termini come "gestito da esperti", "gestito professionalmente", "fondo attivo", ecc.
@@ -120,9 +120,11 @@ NB: il termine "fondo (d'investimento)" è neutrale. È importante fare caso al 
 
 Questo suona tutto un po' complicato, ma è quello che otterremo se apriamo un conto 3a con VIAC.
 
-#### VIAC: consigliato da _Andiambene_
+#### VIAC: consigliato da _Andiambene_ [[a](#nota-a)]
 
-Finora [VIAC](https://viac.ch/it/){:target="viac"} è risultato imbattibile per gli _andiameniani_ per i seguenti punti:
+[![VIAC](/assets/images/posts/content/2020/08/24/viac.jpg)](https://viac.ch/it/){:target="viac"}
+
+Finora [VIAC](https://viac.ch/it/){:target="viac"} è risultato imbattibile per gli _andiambeniani_ per i seguenti punti:
 1. Rientra esattamente nella categoria che vogliamo noi:
 	1. VIAC è del settore **bancario** ✔️
 	2. VIAC è un **conto d'investimento** ✔️
@@ -192,7 +194,7 @@ Una volta che capiamo come mai ha senso investire i nostri soldi, vediamo come p
 
 ## 2. Automatizzare il capitale
 
-Nella prima parte abbiamo visto come possiamo ottenere il nostro tasso d'interesse. Ora vediamo come gli _andiameniani_ garantiscono il capitale investito.
+Nella prima parte abbiamo visto come possiamo ottenere il nostro tasso d'interesse. Ora vediamo come gli _andiambeniani_ garantiscono il capitale investito.
 
 La risposta corta: facciamo un **ordine permanente**.
 
@@ -272,7 +274,7 @@ Una volta identificato il tipo di strumento ed i suoi vantaggi, abbiamo visto co
 
 Per rimanere degli investitori, dobbiamo assicurarci di rimanere fedeli alla nostra strategia di investimento senza lasciarsi distrarre dai nostri impulsi, emozioni e l'andamento del mercato. Per aiutarci ad affrontare questi momenti, dobbiamo imparare a pensare a lungo termine e quindi ricordarci come mai abbiamo cominciato ad investire in primis.
 
-Per diventare investitori, non basta sapere, ma bisogna fare ciò che fa un investitore. Quindi, cari _andiameniani_, è giunta l'ora: ci facciamo un conto terzo pilastro d'investimento ed iniziamo a versarci i soldi con un ordine permanente. L'importante non è con quanto iniziare, ma di iniziare da subito ed automatizzare il processo.
+Per diventare investitori, non basta sapere, ma bisogna fare ciò che fa un investitore. Quindi, cari _andiambeniani_, è giunta l'ora: ci facciamo un conto terzo pilastro d'investimento ed iniziamo a versarci i soldi con un ordine permanente. L'importante non è con quanto iniziare, ma di iniziare da subito ed automatizzare il processo.
 
 Per aiutarci a rimanere degli investitori, è inoltre consigliato istruirsi in materia di investimenti e finanza personale. I libri di finanza personale offrono spesso un componente dedicato agli investimenti oppure offrono un modo per rivedere la nostra attitudine finanziaria dal principio.
 
@@ -286,6 +288,9 @@ Per esempio, tra i libri che hanno aiutato ad ispirare l'investitore nel pensier
 Benvenuti tra gli investitori svizzeri!
 
 ___
+
+**Note**
+- <span id="nota-a">[a]</span> Al momento della stesura di questo articolo, _Andiambene_ non ha alcuna affiliazione e/o collaborazione con VIAC. Il prodotto è quindi proposto in modo completamente indipendente e gli autori non hanno alcuna partecipazione al guadagno di VIAC oltre a quelli generati attraverso l'utilizzo privato dei prodotti offerti da VIAC.
 
 **Fonti**
 
