@@ -13,16 +13,16 @@ url: "http://andiambene.com/2020/08/24/investire-con-il-terzo-pilastro.html"
 
 **Quale potrebbe essere un modo pratico e comodo per diventare degli investitori in Svizzera?**
 
-In Svizzera siamo fortunati di avere uno strumento a nostra disposizione nel quale possiamo cominciare ad esercitarci a diventare degli investitori. Questi sono il terzo pilastro e, nel nostro esempio, un conto terzo pilastro che ci permette di investire sul mercato azionario in modo efficiente, comodo, automatizzato ed in totale trasparenza con VIAC.
+In Svizzera siamo fortunati di avere uno strumento a nostra disposizione nel quale possiamo cominciare ad esercitarsi a diventare degli investitori. Questi sono il terzo pilastro e, nel nostro esempio, un conto terzo pilastro che ci permette di investire sul mercato azionario in modo efficiente, comodo, automatizzato ed in totale trasparenza con VIAC.
 
 I passi per diventare un investitore in questo esempio, sono i seguenti:
 1. [Aprire il giusto conto 3a/terzo pilastro](#aprire-il-giusto-conto-3a)
 2. [Automatizzare il capitale](#automatizzare-il-capitale)
 3. [Pensare a lungo termine](#pensare-a-lungo-termine)
 
-I pre-requisiti per cominciare li abbiamo visti nell'articolo del mese scorso: [_Prepararsi per la vetta_](/2020/07/24/prepararsi.html){:target="andiambene"}.
+I prerequisiti per cominciare li abbiamo visti nell'articolo del mese scorso: [_Prepararsi per la vetta_](/2020/07/24/prepararsi.html){:target="andiambene"}.
 
-Ricapitolando i pre-requisiti prima di inziare ad investire con tranquillità sono:
+Ricapitolando i pre-requisiti prima di iniziare ad investire con tranquillità sono:
 - CHF 1'000.– (in contanti) da parte
 - L'equivalente di almeno 3 mesi di spese su un conto risparmio
 
@@ -32,11 +32,11 @@ Ricapitolando i pre-requisiti prima di inziare ad investire con tranquillità so
 
 **Il primo passo per diventare degli investitori è realizzare che il tempo vale più dei soldi.**
 
-Pensando ad un investitore magari alcuni si immaginano un bancario senza scrupoli che cerca di mettere il profitto monetario al di sopra di qualsiasi altra cosa e lo fa con tabelle e calcoli tecnici complessi e ciffre esorbitanti. Questo succede anche, sì, ma non è come definiamo un buon investitore su _Andiambene_.
+Pensando ad un investitore magari alcuni si immaginano un bancario senza scrupoli che cerca di mettere il profitto monetario al di sopra di qualsiasi altra cosa e lo fa con tabelle e calcoli tecnici complessi e cifre esorbitanti. Questo succede anche, sì, ma non è come definiamo un buon investitore su _Andiambene_.
 
 Invece siamo tutti degli investitori. "Non investire" infatti è una decisione d'investimento.
 
-Se ad esempio scegliamo di "non investire" e mettiamo i soldi da parte su un conto risparmio, abbiamo appena preso la decisione di "investire" in nostri soldi nella valuta stessa (ad esemprio CHF). Questo investimento infatti è esposto alla perdita del suo potere d'acquisto a causa dell'inflazione (ovvero il rincaro dei prezzi [[1.1](#fonte1-1), [1.2](#fonte1-2)].
+Se ad esempio scegliamo di "non investire" e mettiamo i soldi da parte su un conto risparmio, abbiamo appena preso la decisione di "investire" in nostri soldi nella valuta stessa (ad esempio CHF). Questo investimento infatti è esposto alla perdita del suo potere d'acquisto a causa dell'inflazione (ovvero il rincaro dei prezzi [[1.1](#fonte1-1), [1.2](#fonte1-2)].
 
 Un buon investitore è quello che stiamo per diventare noi. Viviamo in un sistema nel quale possiamo (e spesso, almeno inizialmente, dobbiamo) barattare il nostro tempo e libertà in cambio di uno stipendio.
 
@@ -85,11 +85,11 @@ Tante banche e assicurazioni in Svizzera hanno un'opzione di pilastro 3a. Molto 
 
 _Andiambene_ consiglia di iniziare ad investire con una banca.
 
-**_Cosa cambia tra un conto 3a presso una banche ed un'assicurazioni?_**
+**_Cosa cambia tra un conto 3a presso una banca ed un assicurazione?_**
 
-Il problema del pilastro 3a con l'assicurazione, è che solitamente viene stipulato un contratto che ci lega fino al prelievo di esso. In sostanza, con un'assicurazione, siamo costretti a pagare la soma stabilita oggi anche tra 20 anni, quando nemmeno sapremo che lavoro faremo, figuriamoci in che situazione finanziaria ci troveremo.
+Il problema del pilastro 3a con l'assicurazione, è che solitamente viene stipulato un contratto che ci lega fino al prelievo di esso. In sostanza, con un'assicurazione, siamo costretti a pagare la somma stabilita oggi anche tra 20 anni, quando nemmeno sapremo che lavoro faremo, figuriamoci in che situazione finanziaria ci troveremo.
 
-Queste sono situazione nelle quali un investore preferisce non trovarsi, quindi andiamo bene con una banca in questo caso.
+Queste sono situazione nelle quali un investitore preferisce non trovarsi, quindi andiamo bene con una banca in questo caso.
 
 Per avere una panoramica generale sui maggiori vantaggi per un pilastro 3a presso una banca ed un'assicurazione, consiglio di dare un'occhiata alla [tabella pubblicata su comparis.ch](https://it.comparis.ch/saeule-3a/info/versicherungen-vs-banken){:target="comparis"}.
 
@@ -99,9 +99,9 @@ Per avere una panoramica generale sui maggiori vantaggi per un pilastro 3a press
 
 Presso una banca, ci sono principalmente **due opzioni** [[3](#fonte3)] per un conto pilastro 3a:
 1. il **conto risparmio** e
-2. il **conto d'investimento**.
+2. il **conto di investimento**.
 
-Noi che abbiamo seguito attentamente di cosa parliamo oggi, sappiamo che **a noi interessa conto d'investimento**.
+Noi che abbiamo seguito attentamente di cosa parliamo oggi, sappiamo che **a noi interessa conto di investimento**.
 
 Una volta che sappiamo di voler iniziare con un conto d'investimento presso una banca, quali criteri dobbiamo considerare nella scelta?
 
@@ -127,7 +127,7 @@ Questo suona tutto un po' complicato, ma è quello che otterremo se apriamo un c
 Finora [VIAC](https://viac.ch/it/){:target="viac"} è risultato imbattibile per gli _andiambeniani_ per i seguenti punti:
 1. Rientra esattamente nella categoria che vogliamo noi:
 	1. VIAC è del settore **bancario** ✔️
-	2. VIAC è un **conto d'investimento** ✔️
+	2. VIAC è un **conto di investimento** ✔️
 2. Tramite l'investimento in [ETF](/glossario.html#etf){:target="glossario"} a basso costo rientra nella categoria degli **investimenti passivi a basso costo** ✔️
 3. Punti bonus:
 	1. Un **robo-advisor** integrato ci guida nella scelta della strategia d'investimento in base alla nostra tolleranza del rischio. ✔️
@@ -150,7 +150,7 @@ Mettendoci dal lato giusto di chi capisce il potenziale dell'interesse composto,
 
 VIAC ci permette di fare esattamente questo. Abbiamo soltanto bisogno di tre ingredienti: un tasso d'interesse, del capitale e del tempo.
 
-Il tasso d'interesse può variare e dipende dalla strategia di investimento ed il livello di rischio al quale siamo disposti esporre il nostro capitale investito.
+Il tasso di interesse può variare e dipende dalla strategia di investimento ed il livello di rischio al quale siamo disposti esporre il nostro capitale investito.
 
 Vediamo cosa questo potrebbe voler dire in pratica.
 
@@ -172,25 +172,25 @@ Andy un giorno scopre un fantastico blog pieno di spunti interessanti e decide d
 
 Per capire quanto accumula Andy nello stesso arco di tempo, possiamo usare [questo fantastico stumento](http://www.moneychimp.com/calculator/compound_interest_calculator.htm){:target="_blank"} per calcolare il suo interesse composto.
 
-![Andy Ambene è millionario!](/assets/images/posts/content/2020/08/24/andy-millionario.png)
+![Andy Ambene è milionario!](/assets/images/posts/content/2020/08/24/andy-millionario.png)
 
 CHF 6'826.- investiti all'interesse composto del 7.2% in 35 anni, corrispondono: **`CHF 1'056'735.13`**
 
-Mentre Andy festeggia il suo pensionamento come millionario, Boris rimane totalmente sconcertato.
+Mentre Andy festeggia il suo pensionamento come milionario, Boris rimane totalmente sconcertato.
 
 Per rendere ancora di più l'idea della forza dell'interesse composto, arriva anche Alice. Alice arriva spesso in ritardo, infatti ci raggiunge ora che stiamo per concludere questo esempio.
 
-Alice dice che anche lei ha investito i il suo terzo pilastro appena compiuto i 19 anni. Boris alza le spalle e dice: "Anche tu sarai millionaria quindi, no?" e guarda Andy. Andy rimane zitto, perché sa quello che starà per succedere e teme che Boris proprio non è pronto per questo:
+Alice dice che anche lei ha investito i il suo terzo pilastro appena compiuto i 19 anni. Boris alza le spalle e dice: "Anche tu sarai milionaria quindi, no?" e guarda Andy. Andy rimane zitto, perché sa quello che starà per succedere e teme che Boris proprio non è pronto per questo:
 
 ![Alice è millionaria!](/assets/images/posts/content/2020/08/24/alice-millionaria.png)
 
-**Alice non è soltanto millionaria, ma accumula il più del doppio di Andy e addirittura 10 volte quello che accumula Boris.**
+**Alice non è soltanto milionaria, ma accumula il più del doppio di Andy e addirittura 10 volte quello che accumula Boris.**
 
 Boris a questo punto sa che deve fare qualcosa: deve cambiare la sua strategia.
 
 In questo esempio possiamo vedere come mai è così importante capire l'interesse composto e quanto è importante poterlo usare a nostro vantaggio.
 
-Una volta che capiamo come mai ha senso investire i nostri soldi, vediamo come possiamo garantire il capitale automatizzandolo.
+Una volta che capiamo come mai ha senso investire i nostri soldi, vediamo come possiamo garantire il capitale automatizzando i versamenti.
 
 ## 2. Automatizzare il capitale
 
@@ -198,7 +198,7 @@ Nella prima parte abbiamo visto come possiamo ottenere il nostro tasso d'interes
 
 La risposta corta: facciamo un **ordine permanente**.
 
-Dopo aver aperto un conto d'investimento per il terzo pilastro, si possono recuperare le relative coordinate bancarie. Su queste possiamo quindi versare i notri contributi al pilastro 3a.
+Dopo aver aperto un conto d'investimento per il terzo pilastro, si possono recuperare le relative coordinate bancarie. Su queste possiamo quindi versare i nostri contributi al pilastro 3a.
 
 Si consiglia però di fare un ordine permanente. Vediamo però quando e con quale frequenza farlo.
 
@@ -210,7 +210,7 @@ Quindi è meglio entrare sul mercato ed investire da subito invece che aspettare
 
 ### Con quale frequenza dobbiamo investire?
 
-Spesso è consigliato versare una ciffra mensilmente, appena ci arriva lo stipendio.
+Spesso è consigliato versare una cifra mensilmente, appena ci arriva lo stipendio.
 
 Di principio dovremmo investire appena riceviamo i soldi per farlo. È per questo che è meglio fare partire un ordine permanente subito dopo il giorno del mese in cui riceviamo paga, ad esempio.
 
@@ -230,7 +230,7 @@ Infatti è meglio trovare una cifra sostenibile la quale non vogliamo diminuire.
 
 Per chi tutto questo è ancora tutto troppo nuovo ed astratto, si consiglia di iniziare con una cifra bassa.
 
-Ricardiamoci: è più importante investire in modo consistente, anche se poco, e rimanere degli investitori lasciando che il tempo faccia il suo lavoro, invece che continuamente cambiare strategia e lasciarsi guidare dalle emozioni.
+Ricordiamoci: è più importante investire in modo consistente, anche se poco, e rimanere degli investitori lasciando che il tempo faccia il suo lavoro, invece che continuamente cambiare strategia e lasciarsi guidare dalle emozioni.
 
 Un buon investitore è a conoscenza del potere dell'interesse composto e quindi lascia che il tempo faccia il suo lavoro.
 
@@ -252,7 +252,7 @@ Tra queste possiamo proporre le seguenti tra le tante:
 
 Rispondendo sì a queste domande, potremmo trovarci davanti a delle decisioni finanziarie che potrebbero rivelarsi delle ottime opportunità di investimento.
 
-Spesso vanno valutati anche altri parametri al di fuori del denaro e familiarizzare con il concetto di [costo opportunità](). Tra questi, spesso il tempo può valere molto di più – motivo per il quale ad esempio preferiamo viaggiare in treno leggendoci un libro invece che con l'auto dove la nostra attenzione lungo tutto il viaggio viene assorbita dal traffico che dobbiamo affrontare, nonostante il biglietto del treno potrebbe addirittura costare qualcosina in più.
+Spesso vanno valutati anche altri parametri al di fuori del denaro e familiarizzare con il concetto di [costo opportunità](). Tra questi, spesso il tempo può valere molto di più – motivo per il quale ad esempio preferiamo viaggiare in treno leggendo un libro invece che con l'auto dove la nostra attenzione lungo tutto il viaggio viene assorbita dal traffico che dobbiamo affrontare, nonostante il biglietto del treno potrebbe addirittura costare qualcosina in più.
 
 Chiaramente non per forza sono gli unici criteri ed ogni investitore ha i suoi standard e principi.
 
@@ -260,21 +260,21 @@ Warren Buffett, per esempio, ne ha due famosi:
 > * Regola numero 1: non perdere mai soldi.
 > * Regola numero 2: non dimenticarsi mai della regola numero 1! [[4](#fonte4)]
 
-Ricordiamoci però, che se i guadagno del nostro portafoglio riporta cifre rosse, rimaniamo tranquilli e non cambiamo strategia d'impulso. È soltanto nel momento in cui vendiamo i nostri attivi o cambiamo strategia quando le cose si fanno dure, che perdiamo soldi.
+Ricordiamoci però, che se i guadagno del nostro portafoglio riporta cifre rosse, rimaniamo tranquilli e non cambiamo strategia di impulso. È soltanto nel momento in cui vendiamo i nostri attivi o cambiamo strategia quando le cose si fanno dure, che perdiamo soldi.
 
-Per rinforzarci, anche la seguente citazione ci sarà amica, soprattutto quando le cose si fanno un po' più dure. È esattamente nei momenti di crisi che gli investitori più astuti fanno più soldi:
+Per rinforzarsi, anche la seguente citazione ci sarà amica, soprattutto quando le cose si fanno un po' più dure. È esattamente nei momenti di crisi che gli investitori più astuti fanno più soldi:
 
 > Basta avere paura quando gli altri sono avidi ed essere avidi quando gli altri hanno paura. [[5](#fonte5)]
 
 ## Conclusione
 
-In questo articolo abbiamo visto che in Svizzera si può investire in modo semplice aprendo un conto d'investimento per il terzo pilastro. Come buon esemprio, abbiamo considerato VIAC, che grazie alla sua semplicità, trasparenza e costi ridotti, risulta essere un ottimo strumento per cominciare a diventare degli investitori.
+In questo articolo abbiamo visto che in Svizzera si può investire in modo semplice aprendo un conto d'investimento per il terzo pilastro. Come buon esempio, abbiamo considerato VIAC, che grazie alla sua semplicità, trasparenza e costi ridotti, risulta essere un ottimo strumento per cominciare a diventare degli investitori.
 
-Una volta identificato il tipo di strumento ed i suoi vantaggi, abbiamo visto come garantirne l'afflusso del capitale facendo uso dell'ordine permanente presso il proprio conto bancario.
+Una volta identificato il tipo di strumento ed i suoi vantaggi, abbiamo visto come garantire l'afflusso del capitale facendo uso dell'ordine permanente presso il proprio conto bancario.
 
 Per rimanere degli investitori, dobbiamo assicurarci di rimanere fedeli alla nostra strategia di investimento senza lasciarsi distrarre dai nostri impulsi, emozioni e l'andamento del mercato. Per aiutarci ad affrontare questi momenti, dobbiamo imparare a pensare a lungo termine e quindi ricordarci come mai abbiamo cominciato ad investire in primis.
 
-Per diventare investitori, non basta sapere, ma bisogna fare ciò che fa un investitore. Quindi, cari _andiambeniani_, è giunta l'ora: ci facciamo un conto terzo pilastro d'investimento ed iniziamo a versarci i soldi con un ordine permanente. L'importante non è con quanto iniziare, ma di iniziare da subito ed automatizzare il processo.
+Per diventare investitori, non basta sapere, ma bisogna fare ciò che fa un investitore. Quindi, cari _andiambeniani_, è giunta l'ora: ci facciamo un conto terzo pilastro di investimento ed iniziamo a versare i soldi con un ordine permanente. L'importante non è con quanto iniziare, ma di iniziare da subito ed automatizzare il processo.
 
 Per aiutarci a rimanere degli investitori, è inoltre consigliato istruirsi in materia di investimenti e finanza personale. I libri di finanza personale offrono spesso un componente dedicato agli investimenti oppure offrono un modo per rivedere la nostra attitudine finanziaria dal principio.
 
