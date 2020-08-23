@@ -34,7 +34,7 @@ Per investire in tranquillità, il mio consiglio è di avere:
 
 **Il primo passo per diventare degli investitori è riconoscere che il tempo vale più dei soldi.**
 
-Pensando ad un investitore alcuni potrebbero immaginarsi un bancario senza scrupoli che cerca di mettere il profitto monetario al di sopra di qualsiasi altra cosa, manipolando tabelle e calcoli tecnici complessi e cifre esorbitanti. Questo può essere un’opzione, ma non è come definiamo un buon investitore su _Andiambene_.
+Pensando ad un investitore alcuni potrebbero immaginarsi un bancario senza scrupoli che cerca di mettere il profitto monetario al di sopra di qualsiasi altra cosa, manipolando tabelle e calcoli tecnici complessi e cifre esorbitanti. Questa può essere un’opzione, ma non è come definiamo un buon investitore su _Andiambene_.
 
 In realtà siamo tutti degli investitori. "Non investire" infatti è una decisione d'investimento.
 
