@@ -190,7 +190,7 @@ Una volta che capiamo come mai ha senso investire i nostri soldi, vediamo come p
 
 ## 2. Automatizzare il capitale
 
-Nella prima parte abbiamo visto come possiamo ottenere il nostro tasso d'interesse aprendo un conto terzo pilastro di investimento. Ora vediamo come gli _andiambeniani_ garantiscono il capitale investito.
+Nella prima parte abbiamo visto come possiamo accedere ad un tasso d'interesse favorevole aprendo un conto terzo pilastro di investimento ed investendo i soldi in base ai nostri criteri. Ora vediamo come gli _andiambeniani_ garantiscono il capitale investito.
 
 La risposta corta: facciamo un **ordine permanente**.
 
