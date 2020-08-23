@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Investire con il pilastro 3a"
-subtitle: "Investimenti, longevità finanziaria e risparmio sulle imposte – tutto con un semplice pilastro 3a"
+subtitle: "Un po’ di capitale, un buon tasso d’interesse e del tempo – fai i primi passi per diventare un investitore aprendo un conto d'investimento 3a"
 date: 2020-08-24
 tags: ["investire"]
 author: Andiambene
@@ -17,7 +17,7 @@ In Svizzera siamo fortunati ad avere uno strumento a nostra disposizione con il 
 
 I passi per diventare un investitore con VIAC sono i seguenti:
 
-1. [Aprire il giusto conto 3a/terzo pilastro](#aprire-il-giusto-conto-3a)
+1. [Aprire il giusto conto 3a / terzo pilastro](#aprire-il-giusto-conto-3a-terzo-pilastro)
 2. [Automatizzare il capitale](#automatizzare-il-capitale)
 3. [Pensare a lungo termine](#pensare-a-lungo-termine)
 
@@ -48,7 +48,7 @@ Infatti un _andiambeniano_ è un investitore perché crede profondamente che il 
 
 Fortunatamente in Svizzera abbiamo a disposizione degli strumenti accessibili per investire parte del nostro stipendio a lungo termine per un ottimo prezzo. Questo strumento si chiama _Pilastro 3a_.
 
-## 1. Aprire il giusto conto 3a
+## 1. Aprire il giusto conto 3a / terzo pilastro
 
 Alcuni già ce l'hanno e sanno esattamente come funziona. Alcuni l'hanno magari aperto con un consulente che li ha convinti che sia un'ottima cosa farlo. Alcuni ne hanno sentito parlare, ma proprio non hanno idea di che beneficio possa possibilmente portarci. Alcuni ancora hanno zero idea.
 
@@ -156,11 +156,11 @@ Basiamo questo esempio sulla strategia _Global 80_ di VIAC.
 - **Capitale: CHF 6'826.-** che attualmente corrispondono al versamento massimo di contributi al pilastro 3a in veste da dipendente.
 - **Tempo: 35 anni** che corrisponde alla quantità di anni tra i 30 ed il pensionamento ai 65.
 
-Ora immaginiamoci due personaggi: Boris Bernasconi e Andy Ambene. Entrambi hanno 30 anni e decidono di aprire un conto per il terzo pilastro.
+Ora immaginiamoci due personaggi: Bruno Rossi e Andy Ambene. Entrambi hanno 30 anni e decidono di aprire un conto per il terzo pilastro.
 
-Boris decide di aprire un terzo pilastro, non sapendo che però potrebbe investirli. Con quanto andrà in pensione Boris?
+Bruno decide di aprire un terzo pilastro, non sapendo che però potrebbe investirli. Con quanto andrà in pensione Bruno?
 
-Facciamo il calcolo semplice per Boris: **`6'826 * 35 = 238'910.-`**
+Facciamo il calcolo semplice per Bruno: **`6'826 * 35 = 238'910.-`**
 
 Ora vediamo cosa fa quel furbetto di Andy e scopriamo che ragionamento fa.
 
@@ -172,17 +172,17 @@ Per capire quanto accumula Andy nello stesso arco di tempo, possiamo usare [ques
 
 CHF 6'826.- investiti all'interesse composto del 7.2% in 35 anni, corrispondono: **`CHF 1'056'735.13`**
 
-Mentre Andy festeggia il suo pensionamento come milionario, Boris rimane totalmente sconcertato.
+Mentre Andy festeggia il suo pensionamento come milionario, Bruno rimane totalmente sconcertato.
 
 Per rendere ancora di più l'idea della forza dell'interesse composto, arriva anche Alice. Alice arriva spesso in ritardo, infatti ci raggiunge ora che stiamo per concludere questo esempio.
 
-Alice dice che anche lei ha investito il suo terzo pilastro appena compiuto i 19 anni. Boris alza le spalle e dice: "Anche tu sarai milionaria quindi, no?" e guarda Andy. Andy rimane zitto, perché sa quello che sta per succedere e teme che Boris proprio non è pronto per questo:
+Alice dice che anche lei ha investito il suo terzo pilastro appena compiuto i 19 anni. Bruno alza le spalle e dice: "Anche tu sarai milionaria quindi, no?" e guarda Andy. Andy rimane zitto, perché sa quello che sta per succedere e teme che Bruno proprio non è pronto per questo:
 
 ![Alice è millionaria!](/assets/images/posts/content/2020/08/24/alice-millionaria.png)
 
-**Con i suoi CHF 2'387'161.-, Alice non è soltanto milionaria, ma accumula più del doppio rispetto ad Andy e addirittura 10 volte quello che accumula Boris.**
+**Con i suoi CHF 2'387'161.-, Alice non è soltanto milionaria, ma accumula più del doppio rispetto ad Andy e addirittura 10 volte quello che accumula Bruno.**
 
-Boris a questo punto sa che deve fare qualcosa: deve cambiare la sua strategia.
+Bruno a questo punto sa che deve fare qualcosa: deve cambiare la sua strategia.
 
 In questo esempio possiamo vedere come mai è così importante capire l'interesse composto e quanto è importante poterlo usare a nostro vantaggio.
 
