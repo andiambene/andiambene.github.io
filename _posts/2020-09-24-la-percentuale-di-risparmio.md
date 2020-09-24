@@ -47,7 +47,7 @@ Vediamo cosa succede con lo stesso calcolo per Andy:
 
 Vediamo già da subito che anche questi corrispondono a CHF 12'000.- annui.
 
-Un non-_andiambeniano_ potrebbe pensare che non cambia nulla tra i due.
+Un non-<i>andiambeniano</i> potrebbe pensare che non cambia nulla tra i due.
 
 Proviamo invece capire che significato ha tutto questo in relazione al tempo.
 
