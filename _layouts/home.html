@@ -23,20 +23,6 @@ layout: default
             {%- for post in site.posts -%}
                 <li class="post-list__item">
                     {%- assign date_format = site.minima.date_format | default: "%d.%m.%Y" -%}
-                    <div class="post-list__meta">
-                        {%- if post.tags -%}
-                            <div class="post-list__item-tags">
-                                {%- for tag in post.tags -%}
-                                    <span class="post-list__item-tag">
-                                        {{ tag | ecape}}
-                                    </span>
-                                {%- endfor -%}
-                            </div>
-                        {%- endif -%}
-                        <a href="{{ post.url | relative_url }}" class="post-list__item-date">
-                            {{ post.date | date: date_format }}
-                        </a>
-                    </div>
                     <div class="post-list__content">
                         {%- if post.img_src -%}
                             <div class="post-list__image">
@@ -46,6 +32,11 @@ layout: default
                             </div>
                         {%- endif -%}
                         <div class="post-list__text">
+                            <div class="post-list__meta">
+                                <a href="{{ post.url | relative_url }}" class="post-list__item-date">
+                                    {{ post.date | date: date_format }}
+                                </a>
+                            </div>
                             <h3 class="post-list__title">
                                 <a class="" href="{{ post.url | relative_url }}">
                                     {{ post.title | escape }}
