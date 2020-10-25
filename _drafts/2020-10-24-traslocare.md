@@ -11,10 +11,6 @@ img_alt: Pacchi per il trasloco
 url: "https://andiambene.com/2020/10/24/traslocare.html"
 ---
 
-Oggi ho finalmente trovato un attimo di tempo per scrivere un post per il blog. Ho avuto poco tempo ultimamente. Infatti signora e signor Andiambene stanno traslocando.
-
-Questo post lo dedichiamo quindi a questa tematica.
-
 **Quali opportunità abbiamo nel migliorare la nostra situazione quando cambiamo casa?**
 
 Cambiare casa è un'opportunità per migliorare la propria situazione in diversi aspetti.
