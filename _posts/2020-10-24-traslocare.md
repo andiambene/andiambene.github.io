@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Traslocare"
-subtitle: "Cambiare casa può darci delle opportunità per migliorare la nostra situazione. Ecco alcuni spunti di cui tenere conto."
+subtitle: "Cambiare casa può darci delle opportunità per migliorare la nostra situazione. Ecco alcuni degli spunti per un buon inizio."
 date: 2020-10-24
 tags: ["risparmiare"]
 author: Andiambene
