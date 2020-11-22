@@ -24,13 +24,6 @@ layout: default
                 <li class="post-list__item">
                     {%- assign date_format = site.minima.date_format | default: "%d.%m.%Y" -%}
                     <div class="post-list__content">
-                        {%- if post.img_src -%}
-                            <div class="post-list__image">
-                                <a class="" href="{{ post.url | relative_url }}">
-                                    <img src="/assets/images/posts/thumbs/{{post.img_src}}" alt="{{post.img_alt}}">
-                                </a>
-                            </div>
-                        {%- endif -%}
                         <div class="post-list__text">
                             <div class="post-list__meta">
                                 <a href="{{ post.url | relative_url }}" class="post-list__item-date">
