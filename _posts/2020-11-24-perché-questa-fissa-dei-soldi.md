@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Perché questa fissa dei soldi?"
-subtitle: "I soldi non sono tutto, anzi! In questo articolo scopriamo come pensare in termini di tempo, anziché puramente soldi, può darci nuove prospettive in relazioni alle nostre priorità."
+subtitle: "I soldi non sono tutto! In questo articolo pensiamo in termini di tempo, anziché soldi, per darci nuove prospettive in relazioni alle nostre priorità."
 date: 2020-11-24
 tags: ["andiambenismo"]
 author: Andiambene
