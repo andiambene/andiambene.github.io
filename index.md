@@ -5,4 +5,4 @@ nav: false
 intro: Blog di finanza personale in lingua italiana in Svizzera.
 ---
 
-Segui _Andiambene_ lungo la sua strada verso la libertà finanziaria personale con un post nuovo ogni 24esimo del mese con riflessioni, spunti e consigli pratici per una migliore salute finanziaria in Svizzera.
+Andiambene ha come obiettivo di condividere trucchi, metodi e modi di pensare con riflessioni, spunti e consigli pratici partendo dalle esperienze personali degli autori intenti ad avviarsi verso la propria indipendenza finanziaria.
