@@ -40,6 +40,12 @@ In termini _andiameniani_ l'ETF è un ottimo strumento per partecipare sul merca
 
 ## F
 
+### FIRE
+
+FIRE è l'acronimo di _Financial Independence Retire Early_ che sta per Indipendenza Finanziaria Pensionamento Precoce.
+
+I proponenti del movimento FIRE propongono di stralciare gran parte ciò che consideriamo una vita lavorativa e finanziaria normale per poi riscrivere le regole del gioco. La maggior parte del lavoro si focalizza sulla prima metà del _FIRE_, ovvero _Financial Independence_ (indipendenza finanziaria). L'intenzione e con l'aiuto di un po' di matematica è quindi possibile vivere in modo tale che si riesca a risparmiare e investire una grande parte del proprio denaro. Una volta raggiunto una certa somma, anche conosciuta come _"FIRE number"_, ovvero la somma che basta per vivere dai frutti degli investimenti, uno raggiunge l'indipendenza finanziaria. L'individuo è quindi libero di vivere come gli pare a piace. Alcuni passano alla seconda parte del _FIRE_, quindi il _Retire Early_, mentre altri proseguono con le loro attività professionali o ne perseguono di nuove.
+
 ### Flusso monetario
 Il flusso monetario è il movimento e lo spostamento dei soldi e quindi l'insieme di tutte le nostre transazioni denotata dai loro spostamenti in relazione al nostro bilancio (attivi/passivi) ed il nostro conto economico (entrate/uscite).
 
