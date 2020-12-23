@@ -101,4 +101,3 @@ Il 2020 è stato un anno particolare con diversi alti e bassi. Per esempio è st
 
 Alcuni di noi sono stati colpiti personalmente o alcuni conoscenti hanno avuto un po' più di sfortuna. Spero tanto che i vostri cari stiano bene. Spero anche che gli insegnamenti di quest'anno rimangano impressi. In questo modo possiamo rimanere più forti per affrontare qualsiasi sorpresa ci aspetti dietro l'angolo nel bene e nel male.
 
-Un forte abbraccio, buone feste e soprattutto, buon anno nuovo! Ci vediamo nel 2021.
