@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I benefici della vita del minimalismo finanziario"
+title: "Benefici del minimalismo finanziario"
 subtitle: "Come con lo sport prendere cura della propria salute finanziaria può avere ripercussioni positive anche sul resto della nostra esistenza."
 date: 2020-12-24
 tags: [""]
