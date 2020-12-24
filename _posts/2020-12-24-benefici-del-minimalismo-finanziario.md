@@ -11,41 +11,39 @@ url: "https://andiambene.com/2020/12/24/benefici-del-minimalismo-finanziario.htm
 
 **Quali benefici traggo da una buona finanza personale?**
 
-Una buona salute finanziaria aiutano non soltanto contro lo stress, ma se fatto in modo astuto, ci rende pure più regolari, fisicamente in forma, soddisfatti e creativi.
+Una buona salute finanziaria aiuta non solo contro lo stress. Fatto in modo astuto, come prima cosa, imparando nuove cose, rimaniamo mentalmente in forma, riduciamo lo stress, diventiamo più creativi e attiva i nostri muscoli imprenditoriali.
 
-In tanti aspetti una buona salute finanziaria non è molto diverso da una fisica.
+In tanti aspetti una buona salute finanziaria non è molto diverso da quella fisica.
 
-Ad esempio, una corsa nel bosco può farci dormire bene la notte e avere un effetto positivo sulla nostra salute, oltre a bruciare qualche caloria.
+Ad esempio, un'attività sportiva regolare all'aria aperta può farci dormire bene la notte e avere un effetto positivo sulla nostra salute riducendo lo stress.
 
-Lo stesso lo possiamo notare con l'esercizio del tenere traccia e sapere dove stanno i nostri soldi e che ne abbiamo abbastanza in previsione delle nostre prossime spese – questo aiuta contro lo stress. Immaginiamoci per esempio a quanto sport e di conseguenza buon sonno, dopo una buona decisione di ottimizzazione finanziare nello spendere in una bici invece che un'auto. Ci attendono notti di sonno beato dopo ogni giorno di lavoro. (Il fatto che non ci serve più un abbonamento per la palestra, è la nostra ciliegina sulla torta per il borsellino _andiambeniano_.)
+Una situazione di benessere simile alla buona forma fisica la possiamo vivere quando sappiamo di poter fare fronte a tanti imprevisti finanziari. In più, una certa frugalità, può stimolarci a essere meno pigri. Ad esempio preferiamo farci la tratta casa/lavoro in bici. Inizialmente prendiamo questa decisione per un semplice calcolo di costi basato su un approccio alla frugalità all'interno del quale un'auto non sembra rientrare negli schemi. In questo caso in un secondo momento potremmo notare un impatto positivo anche sulla nostra salute, in quanto ora facciamo i regolari chilometri in bici. – Il fatto che non ci serve più un abbonamento per la palestra, è la nostra ciliegina sulla torta per il borsellino _andiambeniano_.
 
 
-## 1. Imparare ci tiene in forma
+## 1. Imparare ci tiene mentalmente in forma
 
-Se vogliamo imparare a prenderci cura della propria salute finanziaria, il primo beneficio lo si trae dall'attività di apprendimento stessa.
+Nell'intento di prenderci cura della nostra salute finanziaria, il primo beneficio lo si trae dall'attività di apprendimento stessa.
 
-I benefici di costantemente imparare sono provati [scientificamente](https://www.sciencedirect.com/science/article/pii/S1877042812019416){:target="_blank"}.
+I benefici d'imparare qualsiasi cosa, incluso come gestire i nostri soldi, sono limitati soltanto dalla nostra mancanza di curiosità e pigrizia. (Tanti altri benefici sono provati [scientificamente](https://www.sciencedirect.com/science/article/pii/S1877042812019416){:target="_blank"}.)
 
-I benefici d'imparare qualsiasi cosa, incluso come gestire i nostri soldi, sono limitati soltanto dalla nostra mancanza di curiosità e pigrizia.
-
-Gli _andiambeniani_ infatti sono dei grandi curiosi e studenti a vita! Continuano porre domande, vogliono capire le risposte, si informano, analizzano e tengono traccia.
-
-Gli _andiambeniani_ infatti beneficeranno di grandi cose, tra cui anche le seguenti.
+Imparare i trucchi delle finanze personali possono essere un vero e proprio catalizzatore per avviarci a scoprire quant'altro abbiamo ancora da apprendere – su di noi, la società, il mondo e l'universo. In poco tempo ci ritroviamo sommersi di libri, _newsletter_, post e articoli da leggere e video e documentari da guardare.
 
 
 ## 2. Il minimalismo finanziario abbassa i livelli di stress
 
-Lo stress non è di per sé una cosa negativa. Infatti, avere una reazione di stress può salvarci la vita. In una situazione di pericolo il battito cardiaco aumenta. Il nostro corpo si attiva particolarmente e ci sparisce la sensazione di fame. Per quell'istante siamo allerti e diventiamo così propensi a eccellere nel superare gli ostacoli che ci troviamo davanti pur di sopravvivere.
+Lo stress non è di per sé una cosa negativa. Infatti, avere una reazione di stress può salvarci la vita. In una situazione di pericolo il battito cardiaco aumenta e il nostro corpo si attiva particolarmente. Per quell'istante siamo allerti ed eccelliamo nel superare ogni ostacoli che ci troviamo davanti pur di sopravvivere.
 
-Spesso però viviamo questi meccanismi di sopravvivenza anche in situazioni in cui non ci troviamo in pericolo di vita e di morte. Quando si tratta di soldi questo meccanismo può rodere alla nostra qualità di vita, ad esempio se non sappiamo se arriveremo con le bollette a fine mese.
+Spesso però questi meccanismi di sopravvivenza si attivano anche in situazioni in cui non ci troviamo in pericolo di morte. Quando si tratta di soldi questo meccanismo può rodere alla nostra qualità di vita in modo particolare - ad esempio se non sappiamo se arriveremo con le bollette a fine mese.
 
-Lo stress è quello scenario nel quale, di fronte a diversi ostacoli, ci sentiamo impotenti e con una sensazione di mancanza di controllo della situazione.
+Lo stress è quindi uno scenario nel quale, di fronte a diversi ostacoli, ci sentiamo impotenti e con una sensazione di mancanza di controllo della situazione.
 
 Modi per migliorare la sensazione di controllo possono includere la preparazione.
 
-Pensiamo ai pompieri, ad esempio. Gettarsi in situazioni di stress è il loro compito. Devono lottare con i mezzi a disposizione per domare delle fiamme che in poco tempo possono radere al suolo magazzini, palazzi, vite umane, boschi e animali.
+Pensiamo ai pompieri, ad esempio.
 
-Come fanno questi eroi a rimanere professionali, organizzati e composti in situazioni di stress?
+Gettarsi in situazioni di stress fisico e mentale è parte del loro compito. Devono lottare con ciò che hanno a disposizione per domare delle fiamme che in poco tempo possono radere al suolo magazzini, palazzi, boschi, animali e vite umane.
+
+Come fanno questi eroi a rimanere composti e non piegarsi di fronte a tale pressione?
 
 Prima di tutto, si assicurano che sappiano come funzionano gli strumenti a disposizione per gestire i vari pericoli.
 
@@ -53,16 +51,18 @@ Come seconda cosa, si mettono alla prova e imparano a conoscere bene il loro "ne
 
 Visto l'efficacia del metodo dei pompieri, gli _andiambeniani_ adottano lo stesso principio per fare fronte ai fuochi finanziari che possono presentarsi dietro l'angolo. Per esempio lo fanno con un fondo d'emergenza equivalente ad almeno tre mesi di uscite coperti.
 
+Come un pompiere, gli _andiambeniani_ come noi, prendono la responsabilità di prepararsi al meglio alle situazioni di stress alle quali potrebbero essere esposti. Lo dobbiamo a noi stessi, a chi ci sta vicini e alla società di modo che tutti quanti possano vivere con meno stress.
+
 
 ## 3. Frugalità porta creatività
 
 Seguendo il principio _andiambeniano_ di mettere una certa percentuale delle nostre entrate su un conto risparmio e verso i nostri investimenti, siamo costretti ad arrangiarci con i soldi rimanenti.
 
-Queste sono occasioni di creatività. Ad esempio possiamo rovistare in cantina e vendere, barattare e/o regalare quello che non ci serve per farci spazio e racimolare qualche soldo extra per un nostro hobby.
+Queste sono occasioni per mettere alla prova la nostra creatività.
 
-Diventiamo meccanici delle nostre bici. Impariamo a trasformare le palette industriali in mobili da giardino. Impariamo nuove ricette per i nostri esperimenti culinari.
+Diventiamo meccanici delle nostre bici. Impariamo a trasformare delle semplici palette industriali in qualsiasi cosa che ci serve, da una libreria, porta vasi a dei mobili da giardino. Impariamo nuove ricette per i nostri esperimenti culinari per fare il meglio della nostra spesa e troviamo mille modi per come utilizzare una semplice lattina.
 
-Qualsiasi siano i piccoli ostacoli, diventiamo sempre più abili e creativi a trasformare le piccole sfide in opportunità di esprimere la nostra originalità nell'imparare trucchi nuovi.
+Qualsiasi siano i piccoli ostacoli, diventiamo sempre più abili e creativi a trasformare le piccole sfide in opportunità di esprimere la nostra originalità nell'imparare trucchi nuovi per dare maggiore ricchezza alla nostra vita.
 
 
 ## 4. Piccole lezioni d'imprenditorialità attraverso i nostri investimenti
