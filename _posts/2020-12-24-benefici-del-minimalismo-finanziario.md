@@ -67,18 +67,20 @@ Qualsiasi siano i piccoli ostacoli, diventiamo sempre più abili e creativi a tr
 
 ## 4. Piccole lezioni d'imprenditorialità attraverso i nostri investimenti
 
-Un ultimo effetto positivo delle lezioni di finanza personale, è che le nostre piccole attività d'investimento sono, nella loro dimensione semplificata, una sorte di piccola impresa. Infatti mettiamo dei soldi a disposizione di un'attività sperando che essa ci frutti qualcosa contribuendo all'aumento del nostro capitale.
+Un ultimo effetto positivo delle lezioni di finanza personale che vale la pena elencare qui, è che le nostre piccole attività d'investimento sono, nella loro dimensione semplificata, una sorte di piccola impresa.
 
-[Investendo](https://andiambene.com/2020/08/24/investire-con-il-pilastro-3a.html){:target="_blank"} un piccolo capitale iniziale, cominciamo a fare il nostro primo passo verso la crescita dei nostri [attivi](https://andiambene.com/2020/06/24/attivare.html){:target="_blank"}. 
+Come in una normale attività imprenditoriale, infatti, mettiamo dei soldi a disposizione a un'impresa sperando che essa ci frutti qualcosa contribuendo alla crescita del nostro capitale.
 
-L'attività pseudo imprenditoriale dell'investitore può avere un effetto positivo, in quanto impariamo a gestire noi stessi e i nostri soldi in diverse situazioni. In più ci alleniamo a riconoscere opportunità d'investimento altrove, come ad esempio mettendoci in proprio o con l'idea per un prodotto, delle creazioni artistiche o editoriali.
+L'attività imprenditoriale dell'investitore può avere un effetto positivo, in quanto impariamo a gestire noi stessi e i nostri soldi in diverse situazioni. Ci alleniamo quindi a riconoscere opportunità d'investimento altrove, come ad esempio mettendoci in proprio o con l'idea per un prodotto, delle creazioni artistiche o editoriali.
+
+Non ci resta quindi che [investire](https://andiambene.com/2020/08/24/investire-con-il-pilastro-3a.html){:target="_blank"} per fare il nostro primo passo verso la crescita dei nostri [attivi](https://andiambene.com/2020/06/24/attivare.html){:target="_blank"}!
 
 
 ## Conclusione
 
-Più andiamo avanti con questo _blog_, meno scuse rimarranno per non diventare dei minimalisti finanziari, "frugalisti", _"budget-ninja"_ o semplicemente degli _andiambeniani_.
+Più passiamo tempo con la tematica, meno scuse rimarranno per non diventare dei minimalisti finanziari, "frugalisti", _"budget-ninja"_ o semplicemente degli _andiambeniani_.
 
-Per chi desidera qualche fonte d'ispirazione in più per i nuovi propositi del 2021 ecco qui di seguito una lista per delle ispirazioni.
+Per qualche ispirazione in più per i nuovi propositi del 2021 ecco qui di seguito una lista per delle ispirazioni all'interno di quali possiamo trovare altri argomenti a favore del minimalismo finanziario.
 
 Un paio di documentari:
 
@@ -99,5 +101,4 @@ Questi _Blog_:
 
 Il 2020 è stato un anno particolare con diversi alti e bassi. Per esempio è stato un buon anno per gli investimenti, soprattutto dopo il crollo delle borse in marzo. Dal punto di vista del contatto sociale e della libertà personale invece rimane ancora una sfida.
 
-Alcuni di noi sono stati colpiti personalmente o alcuni conoscenti hanno avuto un po' più di sfortuna. Spero tanto che i vostri cari stiano bene. Spero anche che gli insegnamenti di quest'anno rimangano impressi. In questo modo possiamo rimanere più forti per affrontare qualsiasi sorpresa ci aspetti dietro l'angolo nel bene e nel male.
-
+Alcuni di noi sono stati colpiti personalmente o alcuni conoscenti hanno avuto un po' più di sfortuna. Spero tanto che i vostri cari stiano bene. Spero anche che gli insegnamenti di quest'anno possano contribuire alla nostra crescita. In questo modo possiamo rimanere più forti per affrontare qualsiasi sorpresa ci aspetti dietro l'angolo nel bene e nel male.
