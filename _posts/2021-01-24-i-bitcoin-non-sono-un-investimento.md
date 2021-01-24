@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "I bitcoin non sono un investimento"
-subtitle: "Alcuni investitori consigliano di allocare l'1% del nostro portafoglio in criptovalute. Scopriamo cosa può voler dire per noi."
+subtitle: "Alcuni investitori consigliano di allocare l'1% del nostro portafoglio in criptovalute. Scopriamo cosa vuol dire per noi."
 date: 2021-01-24
 tags: [""]
 author: Andiambene
 comments: true
 ---
 
-Recentemente nelle notizie alcuni di noi l'avranno notato: il valore del Bitcoin (BTC) è salito ai massimi dei livelli storici.
+Leggendo le notizie alcuni di noi l'hanno notato: il valore del Bitcoin (BTC) è salito ai massimi dei livelli storici.
 
-Alcuni di noi penseranno: "Com’è che ci siamo persi anche questa seconda ondata cripto?"
+C'è chi penserà: "Com’è che mi sono perso anche questa seconda ondata cripto?"
 
-Come prima cosa, non andiamo in panico, evitiamo di farci prendere dalla FOMO (_Fear Of Missing Out_; "paura di essere tagliato fuori") e scopriamo un approccio _andiambeniano_ alla tematica cripto.
+Come prima cosa, non andiamo in panico, evitiamo di farci prendere dalla _FOMO_ (_Fear of Missing Out_; "paura di essere tagliato fuori") ed esploriamo l'approccio _andiambeniano_ alla tematica cripto.
 
 In questo articolo non spieghiamo cosa sono esattamente i BTC o le _Blockchain_ – conviene fare le nostre ricerche indipendenti sulle quali basare le nostre opinioni e decisioni.
 
