@@ -4,6 +4,10 @@
 
 body {
     font-family: sans-serif;
+    @media (prefers-color-scheme: dark) {
+        background-color: #121212;
+        color: #CCC;
+    }    
 }
 
 main {
@@ -94,5 +98,5 @@ td, th {
 
 // anchors
 a {
-    color: black;
+    color: #CCC;
 }
