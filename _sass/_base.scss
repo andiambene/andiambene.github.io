@@ -64,6 +64,9 @@ pre {
     border-radius: .25rem;
     padding: 1em;
     background-color: #CCC;
+    @media (prefers-color-scheme: dark) {
+        background-color: #333;
+    }
 }
 #commento {
     pre {
@@ -75,9 +78,12 @@ pre {
 
 hr {
     border: 0;
-    border-bottom: 1px dashed rgba(0,0,0,0.5);
     margin: 2em 0;
     opacity: .5;
+    border-bottom: 1px solid rgba(0,0,0,0.5);
+    @media (prefers-color-scheme: dark) {
+        border-color: rgba(255,255,255,0.5);
+    }
 }
 
 article,aside,nav,section {
@@ -88,12 +94,18 @@ article,aside,nav,section {
 
 // table
 table {
-    background: #EEE;
+    background-color: #EEE;
+    @media (prefers-color-scheme: dark) {
+        background-color: rgb(17,17,17);
+    }
 }
 
 td, th {
     padding: .25rem;
-    background: white;
+    background-color: white;
+    @media (prefers-color-scheme: dark) {
+        background-color: black;
+    }
 }
 
 // anchors
