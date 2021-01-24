@@ -132,4 +132,4 @@ L’approccio _andiambeniano_ proposto in questo articolo è uno dei tanti modi 
 
 Dal punto di vista _andiambeniano_ il _trading_ non è un’attività particolarmente produttiva e va lasciata ai professionisti. Fatta da gran parte di noi non crea un valore aggiunto per la società attraverso l'offerta di beni o servizi, ma anzi, regaliamo tanti soldi ai nostri broker per le transazioni.
 
-Data la natura di alta volatilità, le criptovalute possono portare con sé dei grossi rischi. C’è a chi piace speculare, ma tra gli _andiambeniani_ siamo in pochi e preferiamo quindi mettere un pizzico di BTC nel nostro portafoglio e non illuderci che comprare BTC sia un investimento fatto e finito.
+Data la loro alta volatilità, le criptovalute possono portare con sé dei grossi rischi. C’è a chi piace speculare, ma tra gli _andiambeniani_ siamo in pochi e preferiamo quindi mettere un pizzico di BTC nel nostro portafoglio e non illuderci che comprare BTC sia un investimento fatto e finito.
