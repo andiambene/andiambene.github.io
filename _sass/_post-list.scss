@@ -1,5 +1,8 @@
 .post-list {
     border-bottom: 1px solid rgba(0, 0, 0, .5);
+    @media (prefers-color-scheme: dark) {
+        border-color: rgba(255,255,255,0.5);
+    }
 
     a {
         text-decoration: none;
@@ -38,7 +41,7 @@
         border-top: 1px solid rgba(0, 0, 0, .5);
         @media (prefers-color-scheme: dark) {
             border-color: rgba(255,255,255,0.5);
-        }    
+        }
     }
 
     &__image {
