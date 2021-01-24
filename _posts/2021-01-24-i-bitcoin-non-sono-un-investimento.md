@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I bitcoin non sono un investimento"
-subtitle: "Alcuni investitori consigliano di tenere attorno all'1% del nostro portafoglio in criptovalute. Scopriamo cosa può voler dire per noi."
+subtitle: "Alcuni investitori consigliano di allocare l'1% del nostro portafoglio in criptovalute. Scopriamo cosa può voler dire per noi."
 date: 2021-01-24
 tags: [""]
 author: Andiambene
