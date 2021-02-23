@@ -16,8 +16,6 @@ layout: default
 
     {{ content }}
 
-    {%- include mailchimp.html -%}
-
     {%- if site.posts.size > 0 -%}
     <div class="post-list">
         <h2 class="post-list__heading">{{ page.list_title | default: "" }}</h2>
@@ -55,5 +53,7 @@ layout: default
     {%- if site.posts.size == 0 -%}
     <pre>Il primo post uscirà il 24.05.2020.</pre>
     {%- endif -%}
+
+    {%- include mailchimp.html -%}
 
 </div>
