@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Il trucco per un risparmio infallibile"
-subtitle: "Scopriamo le tre regole per decollare, prendere quota e proseguire un confortevole viaggio grazie ad un risparmio in autopilota."
+subtitle: "Scopriamo le tre regole per decollare, attivare l'autopilota e prendere quota in questo confortevole viaggio del risparmio."
 date: 2021-02-24
 tags: [""]
 author: Andiambene
